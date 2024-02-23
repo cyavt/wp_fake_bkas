@@ -1,0 +1,562 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ovatheme Destination\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-01 10:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: ova-destination"
+
+#: templates/part/item-destination.php:91
+msgid " Tours"
+msgstr ""
+
+#: elementor/widgets/ova_destination_slider.php:713
+msgid "Active"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:62 inc/class-ova-custom-post-type.php:63
+msgid "Add New Category Destination"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:22 inc/class-ova-custom-post-type.php:23
+msgid "Add New Destination"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:67
+msgid "Add or remove items"
+msgstr ""
+
+#: admin/class-ova-metabox.php:66
+msgid "Add Tour details"
+msgstr ""
+
+#: elementor/widgets/ova_destination_slider.php:128
+msgid "Additional Options"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:58
+msgid "All Category Destination"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:21
+msgid "All Destinations"
+msgstr ""
+
+#: inc/class-customize.php:23
+msgid "Archive"
+msgstr ""
+
+#: elementor/widgets/ova_destination.php:101
+#: elementor/widgets/ova_destination_slider.php:104
+msgid "Ascending"
+msgstr ""
+
+#: elementor/widgets/ova_destination_slider.php:197
+msgid "Autoplay"
+msgstr ""
+
+#: elementor/widgets/ova_destination_slider.php:211
+msgid "Autoplay Speed"
+msgstr ""
+
+#: elementor/widgets/ova_destination.php:176
+#: elementor/widgets/ova_destination.php:294
+#: elementor/widgets/ova_destination_slider.php:293
+#: elementor/widgets/ova_destination_slider.php:410
+#: elementor/widgets/ova_destination_slider.php:554
+#: elementor/widgets/ova_destination_slider.php:596
+msgid "Background Color"
+msgstr ""
+
+#: inc/class-customize.php:113
+msgid "Background Content Single Template1"
+msgstr ""
+
+#: elementor/widgets/ova_destination_slider.php:701
+#: elementor/widgets/ova_destination_slider.php:721
+msgid "Background Gradient"
+msgstr ""
+
+#: elementor/widgets/ova_destination_slider.php:543
+#: elementor/widgets/ova_destination_slider.php:585
+msgid "Border Color"
+msgstr ""
+
+#: elementor/widgets/ova_destination.php:142
+#: elementor/widgets/ova_destination.php:317
+#: elementor/widgets/ova_destination_slider.php:259
+#: elementor/widgets/ova_destination_slider.php:433
+#: elementor/widgets/ova_destination_slider.php:610
+#: elementor/widgets/ova_destination_slider.php:679
+#: elementor/widgets/ova_destination_slider.php:767
+msgid "Border Radius"
+msgstr ""
+
+#: elementor/widgets/ova_destination.php:200
+#: elementor/widgets/ova_destination_slider.php:317
+msgid "Box Shadow"
+msgstr ""
+
+#: elementor/widgets/ova_destination.php:64
+#: elementor/widgets/ova_destination_slider.php:67
+msgid "Category"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:57
+msgid "Category Destination"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:68
+msgid "Choose from the most used"
+msgstr ""
+
+#: elementor/widgets/ova_destination.php:228
+#: elementor/widgets/ova_destination.php:283
+#: elementor/widgets/ova_destination_slider.php:345
+#: elementor/widgets/ova_destination_slider.php:399
+#: elementor/widgets/ova_destination_slider.php:532
+#: elementor/widgets/ova_destination_slider.php:574
+msgid "Color"
+msgstr ""
+
+#: elementor/widgets/ova_destination.php:239
+#: elementor/widgets/ova_destination_slider.php:356
+msgid "Color Hover"
+msgstr ""
+
+#: admin/class-ova-metabox.php:80 elementor/widgets/ova_destination.php:40
+#: elementor/widgets/ova_destination_slider.php:43
+msgid "Content"
+msgstr ""
+
+#: elementor/widgets/ova_destination.php:267
+#: elementor/widgets/ova_destination_slider.php:383
+msgid "Count Tour"
+msgstr ""
+
+#: elementor/widgets/ova_destination.php:89
+#: elementor/widgets/ova_destination_slider.php:92
+msgid "Custom Order"
+msgstr ""
+
+#: elementor/widgets/ova_destination.php:102
+#: elementor/widgets/ova_destination_slider.php:105
+msgid "Descending"
+msgstr ""
+
+#. Description of the plugin
+#: elementor/class-ova-register-elementor.php:52
+msgid "Destination"
+msgstr ""
+
+#: admin/class-ova-metabox.php:26
+msgid "Destination settings"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:88
+msgctxt "Destination Slug"
+msgid "cat_destination"
+msgstr ""
+
+#: inc/class-customize.php:18 inc/class-ova-custom-post-type.php:16
+#: inc/class-ova-custom-post-type.php:17
+msgid "Destinations"
+msgstr ""
+
+#: elementor/widgets/ova_destination_slider.php:626
+msgid "Dots (Mobile)"
+msgstr ""
+
+#: admin/class-ova-metabox.php:56
+msgid ""
+"Drag the marker to set the exact location ( Location Only Display in "
+"Destination Detail Template 1 )"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:64
+msgid "Edit Category Destination"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:25
+msgid "Edit destination"
+msgstr ""
+
+#: templates/single-destination-template1.php:263
+#: templates/single-destination-template2.php:164
+msgid "Explore"
+msgstr ""
+
+#: inc/class-customize.php:71
+msgid "Footer Archive"
+msgstr ""
+
+#: inc/class-customize.php:166
+msgid "Footer Single"
+msgstr ""
+
+#: inc/class-customize.php:54
+msgid "Header Archive"
+msgstr ""
+
+#: inc/class-customize.php:149
+msgid "Header Single"
+msgstr ""
+
+#: elementor/widgets/ova_destination_slider.php:661
+#: elementor/widgets/ova_destination_slider.php:749
+msgid "Height"
+msgstr ""
+
+#: elementor/widgets/ova_destination.php:122
+#: elementor/widgets/ova_destination_slider.php:116
+msgid "Hide"
+msgstr ""
+
+#: elementor/widgets/ova_destination_slider.php:567
+#: elementor/widgets/ova_destination_slider.php:693
+msgid "Hover"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://themeforest.net/user/ovatheme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themeforest.net/user/ovatheme/portfolio"
+msgstr ""
+
+#: elementor/widgets/ova_destination_slider.php:461
+msgid "Icon Size"
+msgstr ""
+
+#: elementor/widgets/ova_destination.php:87
+#: elementor/widgets/ova_destination_slider.php:90
+msgid "ID"
+msgstr ""
+
+#: elementor/widgets/ova_destination.php:134
+#: elementor/widgets/ova_destination_slider.php:251
+msgid "Image"
+msgstr ""
+
+#: elementor/widgets/ova_destination_slider.php:183
+msgid "Infinite Loop"
+msgstr ""
+
+#: admin/class-ova-metabox.php:87
+#: templates/single-destination-template1.php:120
+#: elementor/widgets/ova_destination.php:168
+#: elementor/widgets/ova_destination_slider.php:285
+msgid "Info"
+msgstr ""
+
+#: admin/class-ova-metabox.php:96
+msgid "Insert Number"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:18
+msgid "Item Archives"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:19
+msgid "Item Attributes"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:73
+msgid "Items list"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:74
+msgid "Items list navigation"
+msgstr ""
+
+#: templates/single-destination-template1.php:107
+msgid "Map"
+msgstr ""
+
+#: elementor/widgets/ova_destination.php:212
+#: elementor/widgets/ova_destination_slider.php:329
+msgid "Name"
+msgstr ""
+
+#: elementor/widgets/ova_destination_slider.php:450
+msgid "Nav Control"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:24
+msgid "New Item"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:61
+msgid "New Item Name"
+msgstr ""
+
+#: inc/class-customize.php:135 elementor/widgets/ova_destination_slider.php:173
+#: elementor/widgets/ova_destination_slider.php:188
+#: elementor/widgets/ova_destination_slider.php:202
+#: elementor/widgets/ova_destination_slider.php:239
+msgid "No"
+msgstr ""
+
+#: elementor/widgets/ova_destination.php:58
+#: elementor/widgets/ova_destination_slider.php:61
+msgid "No content Category found"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:72
+msgid "No items"
+msgstr ""
+
+#: elementor/widgets/ova_destination_slider.php:525
+#: elementor/widgets/ova_destination_slider.php:636
+msgid "Normal"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:71
+msgid "Not Found"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:29
+msgid "Not found"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:30
+msgid "Not found in Trash"
+msgstr ""
+
+#: elementor/widgets/ova_destination_slider.php:147
+#: elementor/widgets/ova_destination_slider.php:149
+msgid "Number of Items"
+msgstr ""
+
+#: inc/class-customize.php:38
+msgid "Number of posts per page"
+msgstr ""
+
+#: elementor/widgets/ova_destination.php:110
+msgid "Offset"
+msgstr ""
+
+#: elementor/widgets/ova_destination.php:97
+#: elementor/widgets/ova_destination_slider.php:100
+msgid "Order"
+msgstr ""
+
+#: elementor/widgets/ova_destination_slider.php:86
+msgid "OrderBy"
+msgstr ""
+
+#: elementor/widgets/ova_destination.php:83
+msgid "OrderBy Post"
+msgstr ""
+
+#: elementor/widgets/ova_destination.php:20
+msgid "Our Destination"
+msgstr ""
+
+#: elementor/widgets/ova_destination_slider.php:21
+msgid "Our Destination Slide"
+msgstr ""
+
+#. Author of the plugin
+msgid "Ovatheme"
+msgstr ""
+
+#. Name of the plugin
+msgid "Ovatheme Destination"
+msgstr ""
+
+#: elementor/widgets/ova_destination.php:154
+#: elementor/widgets/ova_destination_slider.php:271
+msgid "Overlay Color"
+msgstr ""
+
+#: elementor/widgets/ova_destination.php:187
+#: elementor/widgets/ova_destination.php:251
+#: elementor/widgets/ova_destination.php:305
+#: elementor/widgets/ova_destination_slider.php:304
+#: elementor/widgets/ova_destination_slider.php:367
+#: elementor/widgets/ova_destination_slider.php:421
+msgid "Padding"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:59
+msgid "Parent Item"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:20 inc/class-ova-custom-post-type.php:60
+msgid "Parent Item:"
+msgstr ""
+
+#: elementor/widgets/ova_destination_slider.php:168
+msgid "Pause on Hover"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:69
+msgid "Popular Items"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:34
+msgid "Post Type Description"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:55
+msgctxt "Post Type General Name"
+msgid "Category Destination"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:14
+msgctxt "Post Type General Name"
+msgid "Destinations"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:56
+msgctxt "Post Type Singular Name"
+msgid "Category Destination"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:15
+msgctxt "Post Type Singular Name"
+msgid "Destination"
+msgstr ""
+
+#: admin/class-ova-metabox.php:67
+msgid "Remove"
+msgstr ""
+
+#: elementor/widgets/ova_destination_slider.php:501
+msgid "Right Position"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:28
+msgid "Search Item"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:70
+msgid "Search Items"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:66
+msgid "Separate items with commas"
+msgstr ""
+
+#: elementor/widgets/ova_destination_slider.php:160
+msgid "Set how many slides are scrolled per swipe."
+msgstr ""
+
+#: admin/class-ova-metabox.php:35
+msgid "Short Description"
+msgstr ""
+
+#: elementor/widgets/ova_destination.php:121
+#: elementor/widgets/ova_destination_slider.php:115
+msgid "Show"
+msgstr ""
+
+#: elementor/widgets/ova_destination.php:119
+#: elementor/widgets/ova_destination_slider.php:113
+msgid "Show Link to Detail"
+msgstr ""
+
+#: elementor/widgets/ova_destination_slider.php:234
+msgid "Show Nav"
+msgstr ""
+
+#: inc/class-customize.php:129
+msgid "Show Related Destination Tour"
+msgstr ""
+
+#: admin/class-ova-metabox.php:43 templates/single-destination-template1.php:55
+msgid "Sights"
+msgstr ""
+
+#: inc/class-customize.php:79
+msgid "Single"
+msgstr ""
+
+#: elementor/widgets/ova_destination_slider.php:158
+msgid "Slides to Scroll"
+msgstr ""
+
+#: elementor/widgets/ova_destination_slider.php:225
+msgid "Smart Speed"
+msgstr ""
+
+#: admin/class-ova-metabox.php:94
+msgid "Sort Order"
+msgstr ""
+
+#: elementor/widgets/ova_destination_slider.php:137
+msgid "Space between 2 items"
+msgstr ""
+
+#: inc/class-customize.php:94
+msgid "Template"
+msgstr ""
+
+#: inc/class-customize.php:99
+msgid "Template 1"
+msgstr ""
+
+#: inc/class-customize.php:100
+msgid "Template 2"
+msgstr ""
+
+#: admin/class-ova-metabox.php:74 elementor/widgets/ova_destination.php:88
+#: elementor/widgets/ova_destination_slider.php:91
+msgid "Title"
+msgstr ""
+
+#: elementor/widgets/ova_destination_slider.php:479
+msgid "Top Position"
+msgstr ""
+
+#: elementor/widgets/ova_destination.php:74
+#: elementor/widgets/ova_destination_slider.php:77
+msgid "Total"
+msgstr ""
+
+#: admin/class-ova-metabox.php:63 admin/class-ova-metabox.php:65
+#: templates/single-destination-template1.php:183
+#: templates/single-destination-template2.php:36
+msgid "Tour details"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:45
+msgctxt "URL slug"
+msgid "tour_destination"
+msgstr ""
+
+#: admin/class-ova-metabox.php:46
+msgid "Use in Destination Detail"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:26 inc/class-ova-custom-post-type.php:65
+msgid "View Item"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:27
+msgid "View Items"
+msgstr ""
+
+#: elementor/widgets/ova_destination_slider.php:643
+#: elementor/widgets/ova_destination_slider.php:731
+msgid "Width"
+msgstr ""
+
+#: inc/class-customize.php:134 elementor/widgets/ova_destination_slider.php:172
+#: elementor/widgets/ova_destination_slider.php:187
+#: elementor/widgets/ova_destination_slider.php:201
+#: elementor/widgets/ova_destination_slider.php:238
+msgid "Yes"
+msgstr ""

@@ -1,0 +1,81 @@
+.ova_404_page{
+
+	display: block;
+    text-align: center;
+    margin: 120px 0px;
+	@media(max-width: 1024px){
+		margin: 90px 0px;
+		padding: 0 20px;
+	}
+	@media(max-width: 479px){
+		margin: 60px 0px;
+	}
+    img{
+    	margin-bottom: 37px;
+    }
+    .title{
+    	margin: 0;
+    	margin-bottom: 15px;
+	    font-size: 42px;
+	    font-weight: 700;
+	    line-height: 1.4;
+    }
+    .description{
+		padding: 0 40%;
+
+		@media(max-width: 1024px){
+			padding: 0 25%;
+		}
+
+		@media(max-width: 479px){
+			padding: 0 10%;
+		}
+		margin-bottom: 36px;
+    	p{
+    		margin: 0;
+			font-size: 20px;
+			font-weight: 400;
+			line-height: 1.4;
+			float: left;
+			display: contents;
+			
+    	}
+
+    	a{
+			font-size: 20px;
+			font-weight: 400;
+			color: #000000;
+			-webkit-transition: all .3s ease;
+			-o-transition: all .3s ease;
+			transition: all .3s ease;
+			&:hover{
+				-webkit-transition: all .3s ease;
+				-o-transition: all .3s ease;
+				transition: all .3s ease;
+				color: var(--primary);
+			}
+    	}
+		
+    }
+    .ova-go-home{
+    	a{
+			padding: 18px 32px;
+			background-color: var(--primary);
+			color: #ffffff;
+			display: inline-block;
+			border: 1px solid var(--primary);
+			font-weight: 600;
+			border-radius: 10px;
+			-webkit-transition: all .3s ease;
+			-o-transition: all .3s ease;
+			transition: all .3s ease;
+			&:hover{
+				-webkit-transition: all .3s ease;
+				-o-transition: all .3s ease;
+				transition: all .3s ease;
+				background-color: #ffffff;
+				color: var(--primary);
+			}
+    	}
+    }
+}

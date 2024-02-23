@@ -1,0 +1,64 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 36000
+Files info:
+Site URL = http://localhost
+Data file = C:\laragon\www/wp-content/themes/comments/install-resource/demo-import/demo-content.xml
+Widget file = C:\laragon\www/wp-content/themes/comments/install-resource/demo-import/widgets.wie
+Customizer file = C:\laragon\www/wp-content/themes/comments/install-resource/demo-import/customize.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import brw_tour_types Beaches
+[WARNING] Failed to import brw_tour_types Culture
+[WARNING] Failed to import brw_tour_types Family
+[WARNING] Failed to import brw_tour_types Hiking
+
+
+------
+New AJAX call!
+[WARNING] Failed to import brw_tour_types Beaches
+[WARNING] Failed to import brw_tour_types Culture
+[WARNING] Failed to import brw_tour_types Family
+[WARNING] Failed to import brw_tour_types Hiking
+
+
+------
+New AJAX call!
+[WARNING] Failed to import brw_tour_types Beaches
+[WARNING] Failed to import brw_tour_types Culture
+[WARNING] Failed to import brw_tour_types Family
+[WARNING] Failed to import brw_tour_types Hiking
+
+
+------
+New AJAX call!
+[WARNING] Failed to import brw_tour_types Beaches
+[WARNING] Failed to import brw_tour_types Culture
+[WARNING] Failed to import brw_tour_types Family
+[WARNING] Failed to import brw_tour_types Hiking
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Tìm kiếm - No Title - Imported
+Chuyên mục - Blog Categories - Imported
+recent-posts-widget-with-thumbnails - Popular Post - Site does not support widget
+Văn bản - No Title - Imported
+Mây Thẻ - Popular Tags - Imported
+
+WooCommerce Sidebar : 
+
+Filter Products by Price - Filter by price - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---ocdi/after_import---
+

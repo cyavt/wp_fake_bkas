@@ -1,0 +1,244 @@
+.ova-blog{
+
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	display: grid;
+	column-gap: 24px;
+
+	&.columns2{
+		grid-template-columns: 1fr 1fr;
+		@media(max-width: 1024px){
+			grid-template-columns: 1fr 1fr;
+			.item{
+				margin-bottom: 30px;
+			}
+		}
+		@media(max-width: 767px){
+			grid-template-columns: 1fr;
+			.item{
+				margin-left: 0px;
+				margin-right: 0px;
+			}
+		}
+		.media{
+			img{
+				width: 100%;
+				object-fit: cover;
+			}
+		}
+	}
+
+	&.columns3{
+		grid-template-columns: 1fr 1fr 1fr;
+		@media(max-width: 1024px){
+			grid-template-columns: 1fr 1fr;
+			.item{
+				margin-bottom: 30px;
+			}
+		}
+		@media(max-width: 767px){
+			grid-template-columns: 1fr;
+			.item{
+				margin-left: 0px;
+				margin-right: 0px;
+			}
+		}
+		.media{
+			img{
+				width: 100%;
+				object-fit: cover;
+			}
+		}
+	}
+
+	&.columns4{
+		grid-template-columns: 1fr 1fr 1fr 1fr;
+
+		@media(max-width: 1400px){
+			grid-template-columns: 1fr 1fr 1fr;
+			.item{
+				margin-bottom: 30px;
+			}
+		}
+
+		@media(max-width: 1024px){
+			grid-template-columns: 1fr 1fr;
+			.item{
+				margin-bottom: 30px;
+			}
+		}
+
+		@media(max-width: 767px){
+			grid-template-columns: 1fr;
+			.item{
+				margin-left: 0px;
+				margin-right: 0px;
+			}
+		}
+
+		.media{
+			img{
+				width: 100%;
+				object-fit: cover;
+			}
+		}
+
+	}
+	
+	.item{
+
+		background: #FFFFFF;
+		box-shadow: 0px 4px 40px rgba(43, 89, 255, 0.08);
+		border-radius: 10px;
+		margin-bottom: 30px;
+		// Video, Media
+		.media{
+			border-radius: 10px 10px 0px 0px;
+			position: relative;
+			overflow: hidden;
+
+			a{
+				display: flex;
+				img{
+					
+					min-height: 282px;
+					width: 100%;
+					object-fit: cover;
+
+					-webkit-transition: all 0.5s linear;
+					transition: all 0.5s linear;
+					-webkit-transform: scale3d(1, 1, 1);
+					transform: scale3d(1, 1, 1);
+				}
+			}
+		}
+
+		.ova-content{
+
+			padding: 30px 21px;
+			padding-bottom: 27px;
+			.category{
+				a{
+					position: absolute;
+					top: 15px;
+					left: 15px;
+					background-color: var(--primary);
+					color: #fff;
+					font-size: 16px;
+					padding: 7px 15px;
+					@include transaction( all, 0.3s, ease);
+					&:hover{
+						background-color: #fff;
+						color: var(--primary);
+						@include transaction( all, 0.3s, ease);
+					}
+				}
+				
+			}
+
+			// Meta
+			.post-meta{
+				list-style-type: none;
+				padding: 0;
+				margin: 0;
+				margin-bottom: 23px;
+				display: flex;
+				justify-content: flex-start;
+
+				.item-meta{
+				    margin-right: 24px;
+				    line-height: 1;
+				    display: flex;
+				    justify-content: center;
+				    align-items: center;
+
+					.left{
+						padding-right: 8px;
+						opacity: 0.6;
+						color: var(--light);
+					}
+					.right{
+					    font-size: 14px;
+					    font-weight: 400;
+					    line-height: 1.2;
+						color: var(--light);
+						a{
+							@include transaction( all, 0.3s, ease);
+							color: var(--light);
+						}
+					}
+
+					&.wp-author{
+						.post-author{
+							&:hover{
+								a{
+									@include transaction( all, 0.3s, ease);
+									color: var(--primary) ;
+								}
+							}
+						}
+					}
+
+					i{
+						font-size: 20px;
+					}
+				}
+			}
+
+			// Title
+			.post-title{
+				margin: 0px;
+				margin-bottom: 20px;
+				a{
+					@include transaction( all, 0.3s, ease);
+					font-size: 24px;
+    				font-weight: 700;
+					color: var(--heading);
+					text-transform: capitalize;
+					&:hover{
+						color: var(--primary);
+						@include transaction( all, 0.3s, ease);
+					}	
+				}
+				
+			}
+
+			// Short Description
+			.short_desc{
+				margin: 0 0 15px 0;
+				padding: 0;
+				p{
+					margin: 0px;
+				}
+			}
+
+			// Read More
+			.read-more{
+				@include transaction( all, 0.3s, ease);
+				color: var(--primary);
+				display: inline-flex;
+			    justify-content: start;
+			    align-items: center;
+			    column-gap: 5px;
+			    font-weight: 600;
+
+				&:hover{
+					color: var(--heading);
+					@include transaction( all, 0.3s, ease);
+				}	
+			}
+		}
+
+		&:hover{
+			.media{
+				a{
+					img{
+						-webkit-transform: scale3d(1.2, 1.2, 1);
+						transform: scale3d(1.2, 1.2, 1);
+					}
+				}
+			}
+		}
+	}
+}

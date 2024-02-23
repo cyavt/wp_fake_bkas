@@ -1,0 +1,119 @@
+.ova-product-list {
+	display: grid;
+	grid-column-gap: 24px;
+	grid-row-gap: 60px;
+	padding: 0;
+	margin: 0;
+
+	&.column1 {
+		grid-template-columns: 1fr;
+	}
+
+	&.column2 {
+		grid-template-columns: 1fr 1fr;
+	}
+
+	&.column3 {
+		grid-template-columns: 1fr 1fr 1fr;
+	}
+
+	&.column4 {
+		grid-template-columns: 1fr 1fr 1fr 1fr;
+	}
+
+	@media screen and (max-width: 1200px) {
+		&.column4 {
+			grid-template-columns: 1fr 1fr 1fr;
+		}
+	} 
+
+	@media screen and (max-width: 1024px) {
+		&.column3, &.column4 {
+			grid-template-columns: 1fr 1fr;
+		}
+	}
+
+	@media screen and (max-width: 768px) {
+		&.column2, &.column3, &.column4 {
+			grid-template-columns: 1fr;
+		}
+	}
+}
+
+.ova-product {
+	text-align: left !important;
+	list-style-type: none;
+	padding-bottom: 0 !important; 
+	box-shadow: 0px 4px 40px rgba(43, 89, 255, 0.08);
+    border-radius: 10px;
+    overflow: hidden;
+    height: fit-content;
+
+    &:hover {
+    	.ova_head_product {
+    		.ova-product-thumbnail {
+    			img {
+    				transform: scale(1.05); 
+    			}
+    		}
+    	}
+    }
+
+	.ova_head_product {
+		display: block;
+		position: relative;
+
+		.ova-product-thumbnail {
+			display: block;
+			overflow: hidden;
+			img {
+				display: block;
+				margin: 0 !important; 
+				width: 100%;
+				min-height: 226px;
+				object-fit: cover;
+				transition: transform 0.9s ease-out;
+			}
+		}
+
+	}
+
+	.ova_foot_product {
+		transition: all .3s ease;
+		background-color: #fff;
+		padding: 30px 20px 20px 20px;
+
+		.ova-product-title {
+			margin: 0;
+			padding-bottom: 14px;
+			line-height: 1;
+			a {
+				transition: all .3s ease;  
+				font-size: 20px;
+				font-weight: bold;
+				color: var(--heading);
+				font-feature-settings: 'pnum' on, 'onum' on;
+			}
+			&:hover {
+				a {
+                    transition: all .3s ease;
+		    	    color: var(--primary);
+				}
+		    }
+		}
+
+	}
+
+}
+
+.products {
+	.ova-product {
+        .ova_head_product {
+			.ova-product-thumbnail {
+				img {
+                    min-height: 226px;
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,3067 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Tripgo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-03 08:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: tripgo"
+
+#: woocommerce/rental/loop/fields/services.php:61
+#, php-format
+msgid " (Adult: %s%s - Children:%s%s)"
+msgstr ""
+
+#: template-parts/parts/meta.php:54
+msgid " 0 Comments"
+msgstr ""
+
+#: template-parts/parts/meta.php:55
+msgid " 1 Comment"
+msgstr ""
+
+#: template-parts/404.php:12
+msgid " Home Page"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:99
+msgid ""
+"\"Duis tristique volutpat facilisis. Integer vitae augue tellus. Phasellus "
+"fringilla tortor a maximus laoreet. Morbi a tristique erat. Fusce luctus "
+"urna vitae ornare aliquam.\""
+msgstr ""
+
+#: elementor/widgets/testimonial-3.php:126
+#: elementor/widgets/testimonial-3.php:131
+#: elementor/widgets/testimonial-3.php:136
+#: elementor/widgets/testimonial-2.php:164
+#: elementor/widgets/testimonial-2.php:169
+#: elementor/widgets/testimonial-2.php:174
+msgid ""
+"\"OMG! I cannot believe that I have got a brand new landing page after "
+"getting appmax. It was super easy to edit and publish.I have got a brand new "
+"landing page.\""
+msgstr ""
+
+#: elementor/widgets/testimonial-3.php:112
+#: elementor/widgets/testimonial-2.php:150
+msgid ""
+"\"Sed ullamcorper morbi tincidunt or massa eget egestas purus. Non nisi est "
+"sit amet facilisis magna etiam.\""
+msgstr ""
+
+#. 1: plugin name.
+#: install-resource/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#. 1: plugin name.
+#: install-resource/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: woocommerce/rental/loop/fields/services.php:45
+#: woocommerce/rental/loop/fields/extra_fields.php:48
+#: woocommerce/rental/loop/fields/extra_fields.php:58
+#: woocommerce/rental/loop/fields/extra_fields.php:72
+#, php-format
+msgid "%s is required."
+msgstr ""
+
+#: woocommerce/rental/content-item-product-list.php:171
+#: woocommerce/rental/loop/video-gallery.php:86
+#, php-format
+msgid "%s photos"
+msgstr ""
+
+#: woocommerce/rental/content-item-product-list.php:203
+#: woocommerce/rental/loop/location-review.php:48
+#, php-format
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/rental/loop/request-form.php:92
+msgid "(229) 555-2872"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:90
+msgid "(406) 555-0120-78"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:118
+msgid "+012 (345) 678"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:131
+msgid "+012345678"
+msgstr ""
+
+#: woocommerce/rental/loop/table_price.php:92
+msgid "-"
+msgstr ""
+
+#: woocommerce/rental/loop/fields/services.php:58
+#: woocommerce/rental/loop/fields/resources.php:81
+#: woocommerce/rental/loop/fields/resources.php:100
+msgid "/per person"
+msgstr ""
+
+#: woocommerce/rental/loop/fields/services.php:55
+#: woocommerce/rental/loop/fields/resources.php:83
+#: woocommerce/rental/loop/fields/resources.php:102
+msgid "/total"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:87
+msgid "2 Columns"
+msgstr ""
+
+#: elementor/widgets/counter.php:73
+msgid "28"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:88
+msgid "3 Columns"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:89
+msgid "4 Columns"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:99
+msgid "406555012078"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:181
+#: elementor/widgets/contact-form.php:182
+msgid "7am - 11pm ET | 4am - 8pm PT"
+msgstr ""
+
+#: inc/class-main.php:118
+msgctxt ": on or off"
+msgid "on"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: install-resource/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:2406
+#: elementor/widgets/tabs.php:532 elementor/widgets/tabs.php:853
+#: elementor/widgets/menu-canvas.php:188 elementor/widgets/menu-nav.php:165
+#: elementor/widgets/menu-nav.php:295 elementor/widgets/toggle.php:365
+#: elementor/widgets/toggle.php:549 elementor/widgets/toggle.php:1001
+msgid "Active"
+msgstr ""
+
+#: elementor/widgets/toggle.php:763 elementor/widgets/toggle.php:875
+msgid "Active Color"
+msgstr ""
+
+#: elementor/widgets/toggle.php:125
+msgid "Active Icon"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:144
+#: elementor/widgets/testimonial-3.php:156
+#: elementor/widgets/testimonial-2.php:194
+msgid "Additional Options"
+msgstr ""
+
+#: woocommerce/rental/loop/request-form.php:99
+msgid "Address *"
+msgstr ""
+
+#: woocommerce/rental/loop/request-form.php:106
+msgid "Address is required."
+msgstr ""
+
+#: woocommerce/rental/loop/table_price.php:39
+#: woocommerce/rental/loop/table_price.php:132
+#: woocommerce/rental/loop/table_price.php:210
+msgid "Adult Price"
+msgstr ""
+
+#: woocommerce/rental/loop/fields/resources.php:72
+msgid "Adult:"
+msgstr ""
+
+#: woocommerce/rental/loop/fields/guests.php:48
+msgid "Adults"
+msgstr ""
+
+#: woocommerce/rental/loop/fields/guests.php:64
+msgid "Adults is required."
+msgstr ""
+
+#: inc/class-elementor.php:347 elementor/widgets/contact-info.php:415
+#: elementor/widgets/tabs.php:166 elementor/widgets/tabs.php:196
+#: elementor/widgets/tabs.php:320 elementor/widgets/tabs.php:770
+#: elementor/widgets/heading.php:112 elementor/widgets/counter.php:98
+#: elementor/widgets/header-banner.php:321 elementor/widgets/logo.php:79
+#: elementor/widgets/toggle.php:711
+msgid "Alignment"
+msgstr ""
+
+#: elementor/widgets/progress.php:216
+msgid "Alignment List"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:42
+msgid "All categories"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#. 1: dashboard link.
+#: install-resource/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#. 1: plugin name, 2: error message.
+#: install-resource/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-customize.php:660
+msgid "Archive"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs.php:35
+msgid "Archive by date"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs.php:40
+msgid "Archive by month"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs.php:120
+msgid "Archive by tag"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs.php:44
+msgid "Archive by year"
+msgstr ""
+
+#: inc/class-customize.php:1172
+msgid "Archive Layout"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs.php:126
+msgid "Articles posted by"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:102
+msgid "Ascending"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:86 elementor/widgets/testimonial-3.php:99
+#: elementor/widgets/testimonial-2.php:137
+msgid "Author Image"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:69 elementor/widgets/testimonial.php:471
+#: elementor/widgets/testimonial-3.php:66
+#: elementor/widgets/testimonial-3.php:522
+#: elementor/widgets/testimonial-2.php:54
+#: elementor/widgets/testimonial-2.php:522
+msgid "Author Name"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:183
+#: elementor/widgets/testimonial-3.php:226
+#: elementor/widgets/testimonial-2.php:264 elementor/widgets/video.php:109
+msgid "Autoplay"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:197
+#: elementor/widgets/testimonial-3.php:240
+#: elementor/widgets/testimonial-2.php:278
+msgid "Autoplay Speed"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: woocommerce/rental/loop/fields/ajax-total.php:26
+msgid "Available: "
+msgstr ""
+
+#: elementor/widgets/testimonial.php:585
+#: elementor/widgets/testimonial-2.php:440
+msgid "Avatar"
+msgstr ""
+
+#: inc/class-woo.php:155
+msgid "Awaiting product image"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:254 elementor/widgets/tabs.php:441
+#: elementor/widgets/tabs.php:496 elementor/widgets/tabs.php:551
+#: elementor/widgets/blog-grid.php:445 elementor/widgets/blog-grid.php:503
+#: elementor/widgets/progress.php:194 elementor/widgets/progress.php:274
+#: elementor/widgets/special-offer.php:242
+#: elementor/widgets/special-offer.php:570 elementor/widgets/menu-footer.php:80
+#: elementor/widgets/menu-footer.php:178 elementor/widgets/counter.php:134
+#: elementor/widgets/video.php:224 elementor/widgets/video.php:265
+#: elementor/widgets/menu-nav.php:211 elementor/widgets/contact-form.php:483
+#: elementor/widgets/toggle.php:321 elementor/widgets/toggle.php:352
+#: elementor/widgets/toggle.php:383 elementor/widgets/toggle.php:516
+#: elementor/widgets/toggle.php:536 elementor/widgets/toggle.php:556
+#: elementor/widgets/toggle.php:968 elementor/widgets/toggle.php:988
+#: elementor/widgets/toggle.php:1008 elementor/widgets/toggle.php:1062
+msgid "Background"
+msgstr ""
+
+#: elementor/widgets/special-offer.php:539
+msgid "Background "
+msgstr ""
+
+#: elementor/widgets/tabs.php:295 elementor/widgets/special-offer.php:289
+#: elementor/widgets/counter.php:242
+msgid "Background Color"
+msgstr ""
+
+#: elementor/widgets/counter.php:253
+msgid "Background Color Hover"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:120
+msgid "Background Cover Color"
+msgstr ""
+
+#: elementor/widgets/video.php:236 elementor/widgets/video.php:277
+msgid "Background Gradient"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:456 elementor/widgets/counter.php:145
+msgid "Background Hover"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:495
+msgid "Background hover"
+msgstr ""
+
+#: elementor/widgets/menu-nav.php:225
+msgid "Background Item Hover"
+msgstr ""
+
+#: elementor/widgets/tabs.php:464 elementor/widgets/tabs.php:519
+#: elementor/widgets/tabs.php:574
+msgid "Background Mobile"
+msgstr ""
+
+#: elementor/widgets/toggle.php:817
+msgid "Before Icon"
+msgstr ""
+
+#: elementor/widgets/toggle.php:489
+msgid "Before Title Style"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: install-resource/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: install-resource/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-elementor.php:188 elementor/widgets/tabs.php:328
+msgid "Block"
+msgstr ""
+
+#: inc/class-customize.php:655 template-parts/parts/breadcrumbs_title.php:13
+#: template-parts/parts/breadcrumbs.php:130
+msgid "Blog"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:18
+msgid "Blog Grid"
+msgstr ""
+
+#: elementor/widgets/progress.php:169
+msgid "Bonus"
+msgstr ""
+
+#: woocommerce/rental/loop/forms.php:54
+msgid "Booking Form"
+msgstr ""
+
+#: woocommerce/rental/loop/booking-form.php:44
+msgid "Booking Now"
+msgstr ""
+
+#: inc/class-customize.php:405 elementor/widgets/contact-info.php:290
+#: elementor/widgets/tabs.php:346 elementor/widgets/tabs.php:589
+#: elementor/widgets/tabs.php:715 elementor/widgets/testimonial.php:615
+#: elementor/widgets/contact-form.php:216
+#: elementor/widgets/contact-form.php:260
+#: elementor/widgets/contact-form.php:532 elementor/widgets/toggle.php:398
+#: elementor/widgets/toggle.php:1107
+msgid "Border"
+msgstr ""
+
+#: inc/class-elementor.php:290 elementor/widgets/tabs.php:284
+#: elementor/widgets/testimonial.php:623 elementor/widgets/toggle.php:211
+msgid "Border Color"
+msgstr ""
+
+#: elementor/widgets/tabs.php:610 elementor/widgets/toggle.php:418
+msgid "Border Color Active"
+msgstr ""
+
+#: elementor/widgets/tabs.php:598 elementor/widgets/toggle.php:407
+msgid "Border Color Hover"
+msgstr ""
+
+#: inc/class-elementor.php:259 elementor/widgets/contact-info.php:298
+#: elementor/widgets/tabs.php:354 elementor/widgets/tabs.php:622
+#: elementor/widgets/tabs.php:966 elementor/widgets/blog-grid.php:535
+#: elementor/widgets/blog-grid.php:556 elementor/widgets/progress.php:249
+#: elementor/widgets/counter.php:177 elementor/widgets/video.php:365
+#: elementor/widgets/contact-form.php:224
+#: elementor/widgets/contact-form.php:540 elementor/widgets/toggle.php:429
+#: elementor/widgets/toggle.php:1022 elementor/widgets/toggle.php:1116
+msgid "Border Radius"
+msgstr ""
+
+#: elementor/widgets/tabs.php:661
+msgid "Border Radius (first-child)"
+msgstr ""
+
+#: elementor/widgets/tabs.php:673
+msgid "Border Radius (last-child)"
+msgstr ""
+
+#: elementor/widgets/toggle.php:441
+msgid "Border Radius Active"
+msgstr ""
+
+#: inc/class-elementor.php:272 elementor/widgets/tabs.php:264
+#: elementor/widgets/toggle.php:193
+msgid "Border Width"
+msgstr ""
+
+#: elementor/widgets/counter.php:169 elementor/widgets/video.php:357
+msgid "Box Shadow"
+msgstr ""
+
+#: inc/class-hook.php:344
+msgid "Boxed"
+msgstr ""
+
+#: inc/class-customize.php:584
+msgid "Boxed Offset (px)"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:212
+msgid "Breadcrumbs Color"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:259
+msgid "Breadcrumbs Color hover"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:271
+msgid "Breadcrumbs Color hover Opacity"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:226
+msgid "Breadcrumbs current Color"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:237
+msgid "Breadcrumbs Current Color Opacity"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:305
+msgid "Breadcrumbs Padding"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:297
+msgid "Breadcrumbs Typography"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:98 elementor/widgets/special-offer.php:485
+#: elementor/widgets/contact-form.php:112
+#: elementor/widgets/contact-form.php:443
+msgid "Button"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:81
+msgid "Call our product expert"
+msgstr ""
+
+#: elementor/widgets/special-offer.php:89
+msgid "Can use <br> tag for line breaks"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:64
+msgid "Category"
+msgstr ""
+
+#: inc/class-elementor.php:355 elementor/widgets/contact-info.php:423
+#: elementor/widgets/tabs.php:174 elementor/widgets/tabs.php:204
+#: elementor/widgets/progress.php:224 elementor/widgets/heading.php:120
+#: elementor/widgets/counter.php:106 elementor/widgets/header-banner.php:329
+#: elementor/widgets/logo.php:87
+msgid "Center"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:135
+#: elementor/widgets/contact-form.php:136
+msgid "chat with us"
+msgstr ""
+
+#: woocommerce/rental/loop/request-form.php:36
+#: woocommerce/rental/loop/fields/dates.php:36
+msgid "Check in"
+msgstr ""
+
+#: woocommerce/rental/loop/request-form.php:129
+msgid "Check in *"
+msgstr ""
+
+#: woocommerce/rental/loop/request-form.php:37
+#: woocommerce/rental/loop/fields/dates.php:37
+msgid "Check out"
+msgstr ""
+
+#: woocommerce/rental/loop/request-form.php:147
+msgid "Check out *"
+msgstr ""
+
+#: woocommerce/rental/loop/request-form.php:141
+#: woocommerce/rental/loop/fields/dates.php:84
+msgid "Check-in is required."
+msgstr ""
+
+#: woocommerce/rental/loop/request-form.php:159
+#: woocommerce/rental/loop/fields/dates.php:100
+msgid "Check-out is required."
+msgstr ""
+
+#: woocommerce/rental/loop/table_price.php:40
+#: woocommerce/rental/loop/table_price.php:134
+#: woocommerce/rental/loop/table_price.php:211
+msgid "Children Price"
+msgstr ""
+
+#: woocommerce/rental/loop/fields/resources.php:91
+msgid "Children:"
+msgstr ""
+
+#: woocommerce/rental/loop/fields/guests.php:74
+msgid "Childrens"
+msgstr ""
+
+#: elementor/widgets/tabs.php:75
+msgid "Choose Icon"
+msgstr ""
+
+#: elementor/widgets/tabs.php:86 elementor/widgets/special-offer.php:75
+msgid "Choose Image"
+msgstr ""
+
+#: woocommerce/rental/loop/request-form.php:35
+#: woocommerce/rental/loop/fields/dates.php:35
+msgid "Choose time"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:168
+msgid "Choose Title Format"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:349
+msgid "Class"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:49 elementor/widgets/contact-form.php:121
+msgid "Class Icon"
+msgstr ""
+
+#: woocommerce/rental/loop/table_price.php:257
+msgid "Close"
+msgstr ""
+
+#: install-resource/active-plugins.php:59
+msgid "CMB2"
+msgstr ""
+
+#: inc/class-customize.php:245 elementor/widgets/contact-info.php:242
+#: elementor/widgets/contact-info.php:325
+#: elementor/widgets/contact-info.php:372 elementor/widgets/tabs.php:429
+#: elementor/widgets/tabs.php:484 elementor/widgets/tabs.php:539
+#: elementor/widgets/tabs.php:697 elementor/widgets/tabs.php:818
+#: elementor/widgets/tabs.php:839 elementor/widgets/tabs.php:860
+#: elementor/widgets/blog-grid.php:423 elementor/widgets/progress.php:305
+#: elementor/widgets/progress.php:360 elementor/widgets/special-offer.php:333
+#: elementor/widgets/special-offer.php:388
+#: elementor/widgets/special-offer.php:447
+#: elementor/widgets/special-offer.php:517
+#: elementor/widgets/special-offer.php:559 elementor/widgets/heading.php:158
+#: elementor/widgets/heading.php:239 elementor/widgets/heading.php:297
+#: elementor/widgets/menu-footer.php:100 elementor/widgets/menu-footer.php:120
+#: elementor/widgets/menu-footer.php:198 elementor/widgets/menu-footer.php:218
+#: elementor/widgets/counter.php:220 elementor/widgets/counter.php:296
+#: elementor/widgets/counter.php:338 elementor/widgets/counter.php:392
+#: elementor/widgets/testimonial.php:430
+#: elementor/widgets/testimonial-3.php:481
+#: elementor/widgets/testimonial-2.php:481
+#: elementor/widgets/testimonial-2.php:684 elementor/widgets/video.php:213
+#: elementor/widgets/video.php:254 elementor/widgets/video.php:408
+#: elementor/widgets/contact-form.php:310
+#: elementor/widgets/contact-form.php:351
+#: elementor/widgets/contact-form.php:392
+#: elementor/widgets/contact-form.php:459
+#: elementor/widgets/contact-form.php:578
+#: elementor/widgets/contact-form.php:619 elementor/widgets/toggle.php:310
+#: elementor/widgets/toggle.php:341 elementor/widgets/toggle.php:372
+#: elementor/widgets/toggle.php:739 elementor/widgets/toggle.php:845
+#: elementor/widgets/toggle.php:1073
+msgid "Color"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:487
+#: elementor/widgets/testimonial-3.php:538
+#: elementor/widgets/testimonial-2.php:538
+msgid "Color Author"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:434 elementor/widgets/counter.php:231
+#: elementor/widgets/counter.php:307 elementor/widgets/counter.php:349
+#: elementor/widgets/counter.php:403 elementor/widgets/video.php:419
+msgid "Color Hover"
+msgstr ""
+
+#: elementor/widgets/heading.php:170 elementor/widgets/contact-form.php:471
+msgid "Color hover"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:544
+#: elementor/widgets/testimonial-3.php:596
+#: elementor/widgets/testimonial-2.php:596
+msgid "Color Job"
+msgstr ""
+
+#: elementor/widgets/tabs.php:453 elementor/widgets/tabs.php:508
+#: elementor/widgets/tabs.php:563
+msgid "Color Mobile"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:234 elementor/widgets/blog-grid.php:288
+msgid "Color Title"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:245 elementor/widgets/blog-grid.php:299
+msgid "Color Title Hover"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:83
+msgid "Columns"
+msgstr ""
+
+#: inc/class-hook.php:361
+msgid "Comment"
+msgstr ""
+
+#: template-parts/parts/meta.php:58
+msgid "Comment off"
+msgstr ""
+
+#: template-parts/parts/meta.php:56
+msgid "Comments"
+msgstr ""
+
+#: comments.php:55
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: number of comments
+#: comments.php:16
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:12
+msgctxt "comments title"
+msgid "One Comment"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:18
+msgid "Contact Form"
+msgstr ""
+
+#: install-resource/active-plugins.php:18
+msgid "Contact Form 7"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:18
+msgid "Contact Info"
+msgstr ""
+
+#: inc/class-customize.php:513
+msgid "Container (px)"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:41 elementor/widgets/tabs.php:111
+#: elementor/widgets/tabs.php:689 elementor/widgets/blog-grid.php:57
+#: elementor/widgets/blog-grid.php:495 elementor/widgets/blog-grid.php:526
+#: elementor/widgets/special-offer.php:43
+#: elementor/widgets/special-offer.php:278 elementor/widgets/heading.php:43
+#: elementor/widgets/testimonial.php:45 elementor/widgets/testimonial.php:374
+#: elementor/widgets/testimonial-3.php:45
+#: elementor/widgets/testimonial-2.php:44
+#: elementor/widgets/header-banner.php:92 elementor/widgets/contact-form.php:41
+#: elementor/widgets/toggle.php:55 elementor/widgets/toggle.php:1054
+msgid "Content"
+msgstr ""
+
+#: inc/class-elementor.php:304 elementor/widgets/menu-nav.php:96
+msgid "Content Padding"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:414
+#: elementor/widgets/testimonial-3.php:465
+#: elementor/widgets/testimonial-2.php:465
+msgid "Content Testimonial"
+msgstr ""
+
+#: inc/class-customize.php:199 inc/class-customize.php:211
+#: inc/class-customize.php:228
+msgid "Custom Font"
+msgstr ""
+
+#: elementor/widgets/logo.php:52
+msgid "Custom URL"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:169
+#: elementor/widgets/contact-form.php:569
+msgid "Date"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:559
+msgid "Date - Time"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:160
+msgid "Date Time"
+msgstr ""
+
+#: woocommerce/rental/content-item-product-list.php:228
+#: woocommerce/rental/content-item-product.php:95
+#: woocommerce/rental/loop/table_price.php:97
+#: woocommerce/rental/loop/table_price.php:104
+#: woocommerce/rental/loop/table_price.php:226
+#: woocommerce/rental/loop/table_price.php:232
+msgid "days"
+msgstr ""
+
+#: inc/class-hook.php:170 inc/class-hook.php:201 inc/class-customize.php:681
+#: inc/class-elementor.php:128
+msgid "Default"
+msgstr ""
+
+#: woocommerce/rental/loop/fields/deposit.php:27
+msgid "Deposit Option"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:103
+msgid "Descending"
+msgstr ""
+
+#: elementor/widgets/heading.php:69 elementor/widgets/heading.php:280
+#: elementor/widgets/contact-form.php:79 elementor/widgets/contact-form.php:334
+#: woocommerce/rental/loop/tabs.php:40
+msgid "Description"
+msgstr ""
+
+#: template-parts/footer-default.php:4
+msgid "Design and Develop by Ovatheme"
+msgstr ""
+
+#: elementor/widgets/logo.php:108
+msgid "Desktop Logo"
+msgstr ""
+
+#: elementor/widgets/logo.php:152
+msgid "Desktop Logo Height"
+msgstr ""
+
+#: elementor/widgets/logo.php:132
+msgid "Desktop Logo Width"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:122
+msgid "Developer"
+msgstr ""
+
+#: elementor/widgets/special-offer.php:427
+msgid "Discount"
+msgstr ""
+
+#: elementor/widgets/special-offer.php:158
+msgid "Discount Percent"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-elementor.php:184
+msgid "Display"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:109
+msgid "Display Background by Feature Image in Post/Page"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:100
+msgid "Display Boxed Content"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:177
+msgid "DIV"
+msgstr ""
+
+#: elementor/widgets/progress.php:82 elementor/widgets/heading.php:102
+msgid "Div"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:334
+#: elementor/widgets/testimonial-3.php:400
+#: elementor/widgets/testimonial-2.php:378
+msgid "Dot Active Color"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:296
+#: elementor/widgets/testimonial-3.php:362
+#: elementor/widgets/testimonial-2.php:340
+msgid "Dot Color"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:284
+#: elementor/widgets/testimonial-3.php:350
+#: elementor/widgets/testimonial-2.php:328
+msgid "Dots"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:113 elementor/widgets/testimonial.php:118
+#: elementor/widgets/testimonial.php:123
+msgid ""
+"Duis tristique volutpat facilisis. Integer vitae augue tellus. Phasellus "
+"fringilla tortor a maximus laoreet. Morbi a tristique erat. Fusce luctus "
+"urna vitae ornare aliquam."
+msgstr ""
+
+#: template-parts/parts/comment.php:50
+msgid "Edit"
+msgstr ""
+
+#: install-resource/active-plugins.php:13
+msgid "Elementor"
+msgstr ""
+
+#: inc/class-hook.php:388 elementor/widgets/contact-info.php:78
+msgid "Email"
+msgstr ""
+
+#: woocommerce/rental/loop/request-form.php:74
+msgid "Email *"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:102
+msgid "Email Adress"
+msgstr ""
+
+#: woocommerce/rental/loop/request-form.php:81
+msgid "Email is required."
+msgstr ""
+
+#: elementor/widgets/contact-info.php:89
+msgid "Email Label"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:91 elementor/widgets/contact-info.php:104
+#: elementor/widgets/contact-info.php:193
+#: elementor/widgets/contact-info.php:194
+msgid "email@company.com"
+msgstr ""
+
+#: inc/class-elementor.php:359 elementor/widgets/contact-info.php:427
+#: elementor/widgets/tabs.php:178 elementor/widgets/tabs.php:208
+#: elementor/widgets/tabs.php:778 elementor/widgets/toggle.php:719
+msgid "End"
+msgstr ""
+
+#: woocommerce/rental/loop/table_price.php:131
+#: woocommerce/rental/loop/table_price.php:159
+msgid "End Date"
+msgstr ""
+
+#: woocommerce/rental/loop/forms.php:59
+msgid "Enquiry From"
+msgstr ""
+
+#: elementor/widgets/progress.php:53
+msgid "Enter your title"
+msgstr ""
+
+#: elementor/widgets/video.php:66
+msgid "Enter your URL"
+msgstr ""
+
+#: inc/class-customize.php:146
+msgid "Example: 0px, 0.5em"
+msgstr ""
+
+#: inc/class-customize.php:107
+msgid "Example: 16px, 1.2em"
+msgstr ""
+
+#: woocommerce/rental/loop/request-form.php:80
+msgid "example@gmail.com"
+msgstr ""
+
+#: woocommerce/rental/content-item-product-list.php:244
+#: woocommerce/rental/content-item-product.php:142
+msgid "Explore"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: woocommerce/rental/loop/request-form.php:172
+msgid "Extra Information"
+msgstr ""
+
+#: woocommerce/rental/loop/fields/resources.php:31
+msgid "Extra Services"
+msgstr ""
+
+#: elementor/widgets/toggle.php:174
+msgid "FAQ Schema"
+msgstr ""
+
+#: woocommerce/rental/content-item-product-list.php:140
+#: woocommerce/rental/content-item-product.php:81
+msgid "Featured"
+msgstr ""
+
+#: inc/class-customize.php:425
+msgid "First Background"
+msgstr ""
+
+#: inc/class-elementor.php:158
+msgid "Flaticon"
+msgstr ""
+
+#: inc/class-elementor.php:192 elementor/widgets/tabs.php:324
+msgid "Flex"
+msgstr ""
+
+#: inc/class-elementor.php:351 elementor/widgets/contact-info.php:419
+msgid "Flex start"
+msgstr ""
+
+#: inc/class-elementor.php:94
+msgid "Flip"
+msgstr ""
+
+#: elementor/widgets/heading.php:227
+msgid "Font Family"
+msgstr ""
+
+#: inc/class-customize.php:106 elementor/widgets/contact-info.php:222
+msgid "Font Size"
+msgstr ""
+
+#: inc/class-customize.php:625 inc/class-customize.php:903
+#: inc/class-customize.php:1151
+msgid "Footer"
+msgstr ""
+
+#: inc/class-customize.php:640
+msgid "Footer Default"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:112
+#: elementor/widgets/testimonial-3.php:125
+#: elementor/widgets/testimonial-2.php:163
+msgid "Freelance Designer"
+msgstr ""
+
+#: woocommerce/rental/loop/forms.php:34
+msgid "From"
+msgstr ""
+
+#: woocommerce/rental/loop/table_price.php:97
+#: woocommerce/rental/loop/table_price.php:104
+msgid "from"
+msgstr ""
+
+#: woocommerce/rental/loop/request-form.php:117
+#: woocommerce/rental/loop/fields/dates.php:61
+#, php-format
+msgid "From %s to %s"
+msgstr ""
+
+#: woocommerce/rental/loop/fields/deposit.php:39
+msgid "Full Payment"
+msgstr ""
+
+#: elementor/widgets/tabs.php:233 elementor/widgets/testimonial.php:239
+#: elementor/widgets/testimonial-3.php:282
+#: elementor/widgets/testimonial-2.php:320
+#: elementor/widgets/contact-form.php:196
+#: elementor/widgets/contact-form.php:250
+msgid "General"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:40 elementor/widgets/menu-nav.php:36
+msgid "Global"
+msgstr ""
+
+#: woocommerce/rental/loop/table_price.php:63
+msgid "Global Discount"
+msgstr ""
+
+#: template-parts/404.php:17
+msgid "Go Home"
+msgstr ""
+
+#: elementor/widgets/testimonial-3.php:135
+#: elementor/widgets/testimonial-2.php:173
+msgid "Governer Of Canada"
+msgstr ""
+
+#: inc/class-customize.php:682
+msgid "Grid"
+msgstr ""
+
+#: woocommerce/rental/loop/fields/guests.php:38
+msgid "Guests"
+msgstr ""
+
+#: elementor/widgets/progress.php:76 elementor/widgets/heading.php:96
+#: elementor/widgets/header-banner.php:171
+msgid "H1"
+msgstr ""
+
+#: elementor/widgets/progress.php:77 elementor/widgets/heading.php:97
+#: elementor/widgets/header-banner.php:172
+msgid "H2"
+msgstr ""
+
+#: elementor/widgets/progress.php:78 elementor/widgets/heading.php:98
+#: elementor/widgets/header-banner.php:173
+msgid "H3"
+msgstr ""
+
+#: elementor/widgets/progress.php:79 elementor/widgets/heading.php:99
+#: elementor/widgets/header-banner.php:174
+msgid "H4"
+msgstr ""
+
+#: elementor/widgets/progress.php:80 elementor/widgets/heading.php:100
+#: elementor/widgets/header-banner.php:175
+msgid "H5"
+msgstr ""
+
+#: elementor/widgets/progress.php:81 elementor/widgets/heading.php:101
+#: elementor/widgets/header-banner.php:176
+msgid "H6"
+msgstr ""
+
+#: inc/class-customize.php:597 inc/class-customize.php:885
+#: inc/class-customize.php:1134
+msgid "Header"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:42
+msgid "Header Banner"
+msgstr ""
+
+#: inc/class-customize.php:611
+msgid "Header Default"
+msgstr ""
+
+#: inc/class-elementor.php:45
+msgid "Header Footer"
+msgstr ""
+
+#: inc/class-customize.php:345
+msgid "Heading"
+msgstr ""
+
+#: elementor/widgets/tabs.php:938 elementor/widgets/progress.php:205
+#: elementor/widgets/special-offer.php:251 elementor/widgets/video.php:315
+#: elementor/widgets/toggle.php:600
+msgid "Height"
+msgstr ""
+
+#: inc/class-elementor.php:95
+msgid "Helix"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:125 elementor/widgets/blog-grid.php:150
+#: elementor/widgets/blog-grid.php:162 elementor/widgets/blog-grid.php:175
+#: elementor/widgets/blog-grid.php:188 elementor/widgets/special-offer.php:176
+#: elementor/widgets/toggle.php:480 elementor/widgets/toggle.php:923
+msgid "Hide"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:3594
+msgid "Hide Details"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs_title.php:5
+#: template-parts/parts/breadcrumbs_title.php:9
+#: template-parts/parts/breadcrumbs.php:13
+#: template-parts/parts/breadcrumbs.php:13
+#: template-parts/parts/breadcrumbs.php:184
+msgid "Home"
+msgstr ""
+
+#: elementor/widgets/logo.php:50
+msgid "Home Page"
+msgstr ""
+
+#: elementor/widgets/tabs.php:155
+msgid "Horizontal"
+msgstr ""
+
+#: elementor/widgets/tabs.php:477 elementor/widgets/tabs.php:832
+#: elementor/widgets/menu-canvas.php:164
+#: elementor/widgets/special-offer.php:552
+#: elementor/widgets/menu-footer.php:113 elementor/widgets/menu-footer.php:211
+#: elementor/widgets/video.php:247 elementor/widgets/menu-nav.php:140
+#: elementor/widgets/menu-nav.php:271 elementor/widgets/toggle.php:334
+#: elementor/widgets/toggle.php:529 elementor/widgets/toggle.php:981
+msgid "Hover"
+msgstr ""
+
+#: elementor/widgets/toggle.php:751 elementor/widgets/toggle.php:860
+msgid "Hover Color"
+msgstr ""
+
+#: elementor/widgets/progress.php:72 elementor/widgets/heading.php:92
+msgid "HTML Tag"
+msgstr ""
+
+#. URI of the theme
+msgid "https://themeforest.net/user/ovatheme/portfolio"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:144
+#: elementor/widgets/contact-info.php:157
+msgid "https://your-domain.com"
+msgstr ""
+
+#: elementor/widgets/testimonial-3.php:85
+#: elementor/widgets/testimonial-2.php:123 elementor/widgets/logo.php:68
+#: elementor/widgets/contact-form.php:145
+msgid "https://your-link.com"
+msgstr ""
+
+#: inc/class-elementor.php:143
+msgid "Icomoon"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:214 elementor/widgets/tabs.php:59
+#: elementor/widgets/tabs.php:790 elementor/widgets/blog-grid.php:198
+#: elementor/widgets/special-offer.php:197 elementor/widgets/counter.php:59
+#: elementor/widgets/counter.php:193 elementor/widgets/testimonial-2.php:86
+#: elementor/widgets/video.php:47 elementor/widgets/video.php:197
+#: elementor/widgets/toggle.php:97 elementor/widgets/toggle.php:700
+#: elementor/widgets/toggle.php:826
+msgid "Icon"
+msgstr ""
+
+#: elementor/widgets/video.php:54
+msgid "Icon Class"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:380 elementor/widgets/special-offer.php:528
+msgid "Icon Color"
+msgstr ""
+
+#: inc/class-elementor.php:327
+msgid "Icon Font Size"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:53 elementor/widgets/testimonial-3.php:52
+msgid "Icon Quote"
+msgstr ""
+
+#: elementor/widgets/tabs.php:51 elementor/widgets/tabs.php:762
+msgid "Icon/Image"
+msgstr ""
+
+#: elementor/widgets/tabs.php:63 elementor/widgets/tabs.php:901
+#: elementor/widgets/blog-grid.php:547 elementor/widgets/special-offer.php:233
+#: elementor/widgets/testimonial-3.php:438 elementor/widgets/logo.php:39
+#: elementor/widgets/contact-form.php:59 elementor/widgets/contact-form.php:416
+msgid "Image"
+msgstr ""
+
+#: woocommerce/rental/loop/tabs.php:45
+#: woocommerce/rental/loop/included-excluded.php:36
+msgid "Included/Excluded"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:169
+#: elementor/widgets/testimonial-3.php:212
+#: elementor/widgets/testimonial-2.php:250
+msgid "Infinite Loop"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:362 elementor/widgets/contact-form.php:50
+#: elementor/widgets/contact-form.php:242
+msgid "Info"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: install-resource/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#. 1: install status, 2: update status
+#: install-resource/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: install-resource/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: install-resource/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. %s: plugin name.
+#: install-resource/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: woocommerce/rental/loop/fields/ajax-total.php:46
+msgid "Insurance included: "
+msgstr ""
+
+#: template-parts/post/content-none.php:14
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: elementor/widgets/progress.php:137
+msgid "Item Color"
+msgstr ""
+
+#: elementor/widgets/testimonial-3.php:175
+#: elementor/widgets/testimonial-2.php:213
+msgid "Item Number"
+msgstr ""
+
+#: elementor/widgets/testimonial-2.php:417
+msgid "Items"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:187
+msgid "Items Info"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:106
+#: elementor/widgets/testimonial-3.php:119
+#: elementor/widgets/testimonial-2.php:157
+msgid "Items Testimonial"
+msgstr ""
+
+#: elementor/widgets/testimonial-3.php:129
+#: elementor/widgets/testimonial-2.php:167
+msgid "Jenny Wilson"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:116
+msgid "jenny wilson"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:77 elementor/widgets/testimonial.php:528
+#: elementor/widgets/testimonial-3.php:74
+#: elementor/widgets/testimonial-3.php:580
+#: elementor/widgets/testimonial-2.php:62
+#: elementor/widgets/testimonial-2.php:580
+msgid "Job"
+msgstr ""
+
+#: elementor/widgets/tabs.php:182 elementor/widgets/tabs.php:212
+msgid "Justified"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:61 elementor/widgets/contact-info.php:63
+#: elementor/widgets/contact-info.php:316 elementor/widgets/contact-form.php:70
+#: elementor/widgets/contact-form.php:293
+msgid "Label"
+msgstr ""
+
+#: inc/class-customize.php:477 inc/class-customize.php:530
+#: inc/class-customize.php:867 inc/class-customize.php:928
+msgid "Layout"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:69 elementor/widgets/progress.php:148
+#: elementor/widgets/progress.php:220 elementor/widgets/heading.php:116
+#: elementor/widgets/counter.php:102 elementor/widgets/header-banner.php:325
+#: elementor/widgets/logo.php:83 elementor/widgets/toggle.php:656
+msgid "Left"
+msgstr ""
+
+#: inc/class-hook.php:234 inc/class-customize.php:1179
+#: inc/class-customize.php:1248
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/class-customize.php:145
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/class-customize.php:385
+msgid "Light"
+msgstr ""
+
+#: inc/class-customize.php:125
+msgid "Line height"
+msgstr ""
+
+#: elementor/widgets/progress.php:285
+msgid "Linear Gradient"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:80 elementor/widgets/special-offer.php:66
+#: elementor/widgets/heading.php:78 elementor/widgets/testimonial-3.php:83
+#: elementor/widgets/testimonial-2.php:121 elementor/widgets/logo.php:47
+#: elementor/widgets/logo.php:63 elementor/widgets/video.php:83
+#: elementor/widgets/contact-form.php:143
+msgid "Link"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:155
+msgid "Link Adress"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:358
+msgid "Link Color"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:384 elementor/widgets/blog-grid.php:369
+msgid "Link Color hover"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:142
+msgid "Link Label"
+msgstr ""
+
+#: customize/custom-control/google-font.php:122
+msgid "Load Font Weight"
+msgstr ""
+
+#: inc/class-woo.php:170
+msgid "Login"
+msgstr ""
+
+#: elementor/widgets/logo.php:19
+msgid "Logo"
+msgstr ""
+
+#: inc/class-customize.php:45
+msgid "Logo Default"
+msgstr ""
+
+#: elementor/widgets/video.php:137
+msgid "Loop"
+msgstr ""
+
+#: elementor/widgets/tabs.php:128 elementor/widgets/tabs.php:132
+#: elementor/widgets/toggle.php:74 elementor/widgets/toggle.php:78
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, "
+"luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: install-resource/active-plugins.php:69
+msgid "Mailchimp"
+msgstr ""
+
+#: inc/class-widgets.php:20 inc/class-widgets.php:22
+msgid "Main Sidebar"
+msgstr ""
+
+#: inc/class-elementor.php:219 elementor/widgets/contact-info.php:265
+#: elementor/widgets/contact-info.php:344
+#: elementor/widgets/contact-info.php:403 elementor/widgets/tabs.php:378
+#: elementor/widgets/tabs.php:648 elementor/widgets/tabs.php:745
+#: elementor/widgets/tabs.php:888 elementor/widgets/tabs.php:992
+#: elementor/widgets/blog-grid.php:256 elementor/widgets/blog-grid.php:310
+#: elementor/widgets/blog-grid.php:391 elementor/widgets/blog-grid.php:467
+#: elementor/widgets/progress.php:336 elementor/widgets/progress.php:438
+#: elementor/widgets/special-offer.php:585 elementor/widgets/heading.php:194
+#: elementor/widgets/heading.php:264 elementor/widgets/heading.php:320
+#: elementor/widgets/menu-footer.php:134 elementor/widgets/menu-footer.php:232
+#: elementor/widgets/counter.php:264 elementor/widgets/testimonial.php:384
+#: elementor/widgets/testimonial.php:441 elementor/widgets/testimonial.php:499
+#: elementor/widgets/testimonial.php:556
+#: elementor/widgets/testimonial-3.php:447
+#: elementor/widgets/testimonial-3.php:492
+#: elementor/widgets/testimonial-3.php:550
+#: elementor/widgets/testimonial-3.php:608
+#: elementor/widgets/testimonial-2.php:449
+#: elementor/widgets/testimonial-2.php:492
+#: elementor/widgets/testimonial-2.php:550
+#: elementor/widgets/testimonial-2.php:608 elementor/widgets/video.php:377
+#: elementor/widgets/contact-form.php:268
+#: elementor/widgets/contact-form.php:321
+#: elementor/widgets/contact-form.php:362
+#: elementor/widgets/contact-form.php:403
+#: elementor/widgets/contact-form.php:425
+#: elementor/widgets/contact-form.php:507
+#: elementor/widgets/contact-form.php:597
+#: elementor/widgets/contact-form.php:638 elementor/widgets/toggle.php:260
+#: elementor/widgets/toggle.php:465 elementor/widgets/toggle.php:682
+#: elementor/widgets/toggle.php:805 elementor/widgets/toggle.php:905
+#: elementor/widgets/toggle.php:1037 elementor/widgets/toggle.php:1140
+msgid "Margin"
+msgstr ""
+
+#: elementor/widgets/toggle.php:1152
+msgid "Margin (p, h1... h6)"
+msgstr ""
+
+#: elementor/widgets/testimonial-3.php:165
+#: elementor/widgets/testimonial-2.php:203
+msgid "Margin Right Items"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:117
+msgid "Marketing head"
+msgstr ""
+
+#: inc/class-customize.php:683
+msgid "Masonry"
+msgstr ""
+
+#: template-parts/header-default.php:22 elementor/widgets/menu-footer.php:44
+#: elementor/widgets/menu-footer.php:72 elementor/widgets/menu-nav.php:16
+#: elementor/widgets/menu-nav.php:340
+msgid "Menu"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:113
+msgid "Menu Background"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:16
+msgid "Menu Canvas"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:148 elementor/widgets/menu-canvas.php:171
+#: elementor/widgets/menu-canvas.php:195 elementor/widgets/menu-nav.php:122
+#: elementor/widgets/menu-nav.php:147 elementor/widgets/menu-nav.php:172
+#: elementor/widgets/menu-nav.php:253 elementor/widgets/menu-nav.php:278
+#: elementor/widgets/menu-nav.php:302
+msgid "Menu Color"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:65
+msgid "Menu Direction"
+msgstr ""
+
+#: elementor/widgets/menu-footer.php:20
+msgid "Menu Footer"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:329
+msgid "Meta"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:121
+msgid "Mike Hardson"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:111
+#: elementor/widgets/testimonial-3.php:124
+#: elementor/widgets/testimonial-3.php:134
+#: elementor/widgets/testimonial-2.php:162
+#: elementor/widgets/testimonial-2.php:172
+msgid "Mila McSabbu"
+msgstr ""
+
+#: woocommerce/rental/loop/table_price.php:219
+msgid "Min - Max (Days)"
+msgstr ""
+
+#: woocommerce/rental/loop/table_price.php:38
+#: woocommerce/rental/loop/table_price.php:209
+msgid "Min - Max (Persons)"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:569
+msgid "Min height (px)"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: elementor/widgets/logo.php:175
+msgid "Mobile Logo"
+msgstr ""
+
+#: elementor/widgets/logo.php:210
+msgid "Mobile Logo Height"
+msgstr ""
+
+#: elementor/widgets/logo.php:190
+msgid "Mobile Logo Width"
+msgstr ""
+
+#: elementor/widgets/video.php:165
+msgid "Modest Branding"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:171
+#: elementor/widgets/contact-form.php:172
+msgid "Mondays - Sundays"
+msgstr ""
+
+#: inc/class-elementor.php:90
+msgid "Move Down"
+msgstr ""
+
+#: inc/class-elementor.php:91
+msgid "Move Left"
+msgstr ""
+
+#: inc/class-elementor.php:92
+msgid "Move Right"
+msgstr ""
+
+#: inc/class-elementor.php:89
+msgid "Move Up"
+msgstr ""
+
+#: elementor/widgets/video.php:123
+msgid "Mute"
+msgstr ""
+
+#: elementor/widgets/progress.php:54
+msgid "My Skill"
+msgstr ""
+
+#: inc/class-hook.php:379
+msgid "Name"
+msgstr ""
+
+#: woocommerce/rental/loop/request-form.php:63
+msgid "Name *"
+msgstr ""
+
+#: woocommerce/rental/loop/request-form.php:70
+msgid "Name is required."
+msgstr ""
+
+#: elementor/widgets/tabs.php:312
+msgid "Navigation"
+msgstr ""
+
+#: elementor/widgets/tabs.php:241
+msgid "Navigation Width"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:72
+msgid "Need help?"
+msgstr ""
+
+#: template-parts/post/content-post.php:92
+msgid "Next"
+msgstr ""
+
+#: inc/class-customize.php:498 inc/class-customize.php:704
+#: inc/class-customize.php:725 inc/class-customize.php:746
+#: inc/class-customize.php:767 inc/class-customize.php:788
+#: inc/class-customize.php:809 inc/class-customize.php:831
+#: inc/class-customize.php:852 inc/class-customize.php:952
+#: inc/class-customize.php:973 inc/class-customize.php:994
+#: inc/class-customize.php:1015 inc/class-customize.php:1036
+#: inc/class-customize.php:1057 inc/class-customize.php:1078
+#: inc/class-customize.php:1099 inc/class-customize.php:1119
+#: inc/class-customize.php:1218 inc/class-customize.php:1269
+#: elementor/widgets/testimonial.php:159 elementor/widgets/testimonial.php:174
+#: elementor/widgets/testimonial.php:188 elementor/widgets/testimonial.php:225
+#: elementor/widgets/testimonial-3.php:202
+#: elementor/widgets/testimonial-3.php:217
+#: elementor/widgets/testimonial-3.php:231
+#: elementor/widgets/testimonial-3.php:268
+#: elementor/widgets/testimonial-2.php:240
+#: elementor/widgets/testimonial-2.php:255
+#: elementor/widgets/testimonial-2.php:269
+#: elementor/widgets/testimonial-2.php:306 elementor/widgets/video.php:112
+#: elementor/widgets/video.php:126 elementor/widgets/video.php:140
+#: elementor/widgets/video.php:154 elementor/widgets/video.php:168
+#: elementor/widgets/video.php:182
+msgid "No"
+msgstr ""
+
+#. 1: plugin name.
+#: install-resource/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:48
+msgid "No content Category found"
+msgstr ""
+
+#: woocommerce/rental/loop/table_price.php:248
+msgid "No Discount in this time"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-hook.php:232 inc/class-customize.php:1177
+#: inc/class-customize.php:1246
+msgid "No Sidebar"
+msgstr ""
+
+#: elementor/widgets/tabs.php:55 elementor/widgets/tabs.php:332
+#: elementor/widgets/logo.php:51
+msgid "None"
+msgstr ""
+
+#: elementor/widgets/tabs.php:422 elementor/widgets/tabs.php:811
+#: elementor/widgets/menu-canvas.php:141
+#: elementor/widgets/special-offer.php:100
+#: elementor/widgets/special-offer.php:500 elementor/widgets/menu-footer.php:93
+#: elementor/widgets/menu-footer.php:191 elementor/widgets/video.php:206
+#: elementor/widgets/menu-nav.php:115 elementor/widgets/menu-nav.php:246
+#: elementor/widgets/toggle.php:303 elementor/widgets/toggle.php:509
+#: elementor/widgets/toggle.php:961
+msgid "Normal"
+msgstr ""
+
+#: woocommerce/rental/loop/related.php:82
+msgid "Not Found"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: elementor/widgets/progress.php:410
+msgid "Notes"
+msgstr ""
+
+#: template-parts/post/content-none.php:3
+msgid "Nothing Found"
+msgstr ""
+
+#: elementor/widgets/counter.php:71 elementor/widgets/counter.php:280
+msgid "Number"
+msgstr ""
+
+#: elementor/widgets/testimonial-3.php:177
+#: elementor/widgets/testimonial-2.php:215
+msgid "Number Item"
+msgstr ""
+
+#: elementor/widgets/special-offer.php:136
+msgid "off"
+msgstr ""
+
+#: install-resource/active-plugins.php:28
+msgid "One click demo import"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:311 elementor/widgets/testimonial.php:349
+#: elementor/widgets/testimonial-3.php:377
+#: elementor/widgets/testimonial-3.php:415
+#: elementor/widgets/testimonial-2.php:355
+#: elementor/widgets/testimonial-2.php:393
+msgid "Opacity Dots"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:657
+msgid "Opacity image"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:634
+msgid "Opacity image active"
+msgstr ""
+
+#: elementor/widgets/testimonial-3.php:329
+msgid "Opacity Quote"
+msgstr ""
+
+#: template-parts/404.php:5
+msgid "Opps! That Links Is Broken."
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:98
+msgid "Order"
+msgstr ""
+
+#: elementor/widgets/testimonial-2.php:110
+msgid "Outline"
+msgstr ""
+
+#: inc/class-elementor.php:252
+msgid "Ova Accordion"
+msgstr ""
+
+#: inc/class-elementor.php:321
+msgid "Ova Button"
+msgstr ""
+
+#: elementor/widgets/counter.php:22 elementor/widgets/counter.php:50
+#: elementor/widgets/counter.php:126
+msgid "Ova Counter"
+msgstr ""
+
+#: elementor/widgets/heading.php:20
+msgid "Ova Heading"
+msgstr ""
+
+#: inc/class-elementor.php:379
+msgid "Ova Icon Box"
+msgstr ""
+
+#: elementor/widgets/progress.php:44
+msgid "Ova Progress"
+msgstr ""
+
+#: inc/class-elementor.php:177
+msgid "Ova Social Icon"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:19
+msgid "Ova Testimonial"
+msgstr ""
+
+#: inc/class-elementor.php:212
+msgid "Ova Text Editor"
+msgstr ""
+
+#. Author of the theme
+msgid "Ovatheme"
+msgstr ""
+
+#: install-resource/active-plugins.php:52
+msgid "OvaTheme Destination"
+msgstr ""
+
+#: install-resource/active-plugins.php:33
+msgid "OvaTheme Framework"
+msgstr ""
+
+#: elementor/widgets/progress.php:84 elementor/widgets/heading.php:104
+msgid "p"
+msgstr ""
+
+#: inc/class-elementor.php:231 elementor/widgets/contact-info.php:277
+#: elementor/widgets/tabs.php:366 elementor/widgets/tabs.php:635
+#: elementor/widgets/tabs.php:731 elementor/widgets/tabs.php:875
+#: elementor/widgets/tabs.php:979 elementor/widgets/blog-grid.php:479
+#: elementor/widgets/blog-grid.php:514 elementor/widgets/progress.php:324
+#: elementor/widgets/progress.php:426 elementor/widgets/special-offer.php:300
+#: elementor/widgets/special-offer.php:355
+#: elementor/widgets/special-offer.php:410
+#: elementor/widgets/special-offer.php:469
+#: elementor/widgets/special-offer.php:597 elementor/widgets/heading.php:182
+#: elementor/widgets/heading.php:252 elementor/widgets/heading.php:308
+#: elementor/widgets/menu-footer.php:146 elementor/widgets/menu-footer.php:244
+#: elementor/widgets/counter.php:156 elementor/widgets/counter.php:360
+#: elementor/widgets/counter.php:414 elementor/widgets/testimonial.php:396
+#: elementor/widgets/testimonial.php:453 elementor/widgets/testimonial.php:511
+#: elementor/widgets/testimonial.php:568
+#: elementor/widgets/testimonial-3.php:504
+#: elementor/widgets/testimonial-3.php:562
+#: elementor/widgets/testimonial-3.php:620
+#: elementor/widgets/testimonial-2.php:425
+#: elementor/widgets/testimonial-2.php:504
+#: elementor/widgets/testimonial-2.php:562
+#: elementor/widgets/testimonial-2.php:620 elementor/widgets/video.php:430
+#: elementor/widgets/menu-nav.php:84 elementor/widgets/contact-form.php:203
+#: elementor/widgets/contact-form.php:280
+#: elementor/widgets/contact-form.php:519 elementor/widgets/toggle.php:248
+#: elementor/widgets/toggle.php:453 elementor/widgets/toggle.php:793
+#: elementor/widgets/toggle.php:890 elementor/widgets/toggle.php:1128
+msgid "Padding"
+msgstr ""
+
+#: template-parts/page.php:23
+msgid "Page"
+msgstr ""
+
+#: template-parts/404.php:9
+msgid "Page does not exist or some other error occured. Go to our"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs.php:134
+msgid "Page not found"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs_title.php:36
+msgid "page not found"
+msgstr ""
+
+#: template-parts/page.php:19 template-parts/parts/content.php:4
+msgid "Pages:"
+msgstr ""
+
+#: elementor/widgets/menu-nav.php:67
+msgid "Parent Menu"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:154
+#: elementor/widgets/testimonial-3.php:197
+#: elementor/widgets/testimonial-2.php:235
+msgid "Pause on Hover"
+msgstr ""
+
+#: woocommerce/rental/loop/fields/deposit.php:43
+#: woocommerce/rental/loop/fields/deposit.php:48
+msgid "Pay Deposit"
+msgstr ""
+
+#: woocommerce/rental/loop/fields/deposit.php:33
+msgid "Per item"
+msgstr ""
+
+#: elementor/widgets/progress.php:95 elementor/widgets/progress.php:266
+msgid "Percent"
+msgstr ""
+
+#: elementor/widgets/progress.php:352
+msgid "Percentage"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:79 elementor/widgets/contact-form.php:375
+msgid "Phone"
+msgstr ""
+
+#: woocommerce/rental/loop/request-form.php:86
+msgid "Phone *"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:129 elementor/widgets/contact-form.php:97
+msgid "Phone Adress"
+msgstr ""
+
+#: woocommerce/rental/loop/request-form.php:93
+msgid "Phone is required."
+msgstr ""
+
+#: elementor/widgets/contact-info.php:116 elementor/widgets/contact-form.php:88
+msgid "Phone Label"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:100
+msgid "Phone number"
+msgstr ""
+
+#: elementor/widgets/special-offer.php:112
+msgid "Plan your next trip"
+msgstr ""
+
+#: elementor/widgets/video.php:151
+msgid "Player Controls"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:1019
+#: install-resource/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:1206
+#: install-resource/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:394
+#: install-resource/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#. 1: plugin name.
+#: install-resource/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. 1: number of plugins.
+#: install-resource/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-elementor.php:404
+msgid "Polygon"
+msgstr ""
+
+#: inc/class-elementor.php:400
+msgid "Polygon shape"
+msgstr ""
+
+#: inc/class-elementor.php:96
+msgid "PopUp"
+msgstr ""
+
+#: elementor/widgets/tabs.php:151
+msgid "Position"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:74
+msgid "Post Total"
+msgstr ""
+
+#: elementor/widgets/progress.php:163
+msgid "Pre Sale"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-customize.php:492
+msgid "Preload"
+msgstr ""
+
+#: template-parts/post/content-post.php:72
+msgid "Previous"
+msgstr ""
+
+#: woocommerce/rental/loop/table_price.php:163
+#: woocommerce/rental/loop/table_price.php:168
+#: woocommerce/rental/loop/table_price.php:226
+#: woocommerce/rental/loop/table_price.php:232
+msgid "Price from"
+msgstr ""
+
+#: woocommerce/rental/content-item-product-list.php:240
+#: woocommerce/rental/content-item-product.php:138
+msgid "Price Negotiable"
+msgstr ""
+
+#: inc/class-customize.php:263
+msgid "Primary"
+msgstr ""
+
+#: inc/class-customize.php:158 inc/class-customize.php:174
+msgid "Primary Font"
+msgstr ""
+
+#: inc/class-customize.php:284
+msgid "Primary Hover"
+msgstr ""
+
+#: inc/class-main.php:95
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/class-customize.php:1225
+msgid "Product detail"
+msgstr ""
+
+#: elementor/widgets/progress.php:21
+msgid "Progress"
+msgstr ""
+
+#: elementor/widgets/progress.php:186
+msgid "Progress Bar"
+msgstr ""
+
+#: woocommerce/rental/loop/fields/quantity.php:23
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/rental/loop/fields/quantity.php:31
+msgid "Quantity is required."
+msgstr ""
+
+#: elementor/widgets/testimonial.php:247
+#: elementor/widgets/testimonial-3.php:292
+msgid "Quote"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:256
+#: elementor/widgets/testimonial-3.php:301
+msgid "Quote Job"
+msgstr ""
+
+#: woocommerce/rental/content-item-product-list.php:199
+#: woocommerce/rental/content-item-product.php:119
+#: woocommerce/rental/loop/location-review.php:44
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: elementor/widgets/testimonial-2.php:71
+msgid "Rating"
+msgstr ""
+
+#: elementor/widgets/testimonial-2.php:638
+msgid "Rating Stars"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:115 elementor/widgets/blog-grid.php:407
+msgid "Read More"
+msgstr ""
+
+#: template-parts/parts/readmore.php:2
+msgid "Read more"
+msgstr ""
+
+#: template-parts/post/content-none.php:10
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/class-customize.php:126
+msgid "Recommend use em. Example: 1.6em, 23px"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-woo.php:176
+msgid "Register"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:393
+#: install-resource/class-tgm-plugin-activation.php:912
+#: install-resource/class-tgm-plugin-activation.php:2618
+#: install-resource/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: woocommerce/rental/loop/tabs.php:59
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/rental/loop/review.php:34
+#, php-format
+msgid "Reviews (%d)"
+msgstr ""
+
+#: woocommerce/rental/loop/review.php:49
+msgid "Reviews are only visible in a single product page"
+msgstr ""
+
+#: install-resource/active-plugins.php:64
+msgid "ReviewX"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:73 elementor/widgets/progress.php:228
+#: elementor/widgets/heading.php:124 elementor/widgets/counter.php:110
+#: elementor/widgets/header-banner.php:333 elementor/widgets/logo.php:91
+msgid "Right"
+msgstr ""
+
+#: inc/class-hook.php:233 inc/class-customize.php:1178
+#: inc/class-customize.php:1247
+msgid "Right Sidebar"
+msgstr ""
+
+#: elementor/widgets/special-offer.php:101
+msgid "Sale Off"
+msgstr ""
+
+#: elementor/widgets/special-offer.php:102
+msgid "Save Up To"
+msgstr ""
+
+#: inc/class-elementor.php:93
+msgid "Scale Up"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs_title.php:17
+msgid "Search"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs.php:72
+msgid "Search results for"
+msgstr ""
+
+#: template-parts/search.php:7
+msgid "Search Results for: "
+msgstr ""
+
+#: inc/class-customize.php:445
+msgid "Second Background"
+msgstr ""
+
+#: inc/class-customize.php:305
+msgid "Secondary"
+msgstr ""
+
+#: inc/class-customize.php:325
+msgid "Secondary Hover"
+msgstr ""
+
+#: woocommerce/rental/loop/fields/services.php:47
+#: woocommerce/rental/loop/fields/extra_fields.php:76
+#, php-format
+msgid "Select %s"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:54 elementor/widgets/menu-footer.php:58
+#: elementor/widgets/menu-nav.php:50
+msgid "Select Menu"
+msgstr ""
+
+#: woocommerce/rental/loop/request-form.php:178
+msgid "Send Now"
+msgstr ""
+
+#: woocommerce/rental/loop/fields/services.php:30
+msgid "Services"
+msgstr ""
+
+#: elementor/widgets/testimonial-3.php:189
+#: elementor/widgets/testimonial-2.php:227
+msgid "Set how many slides are scrolled per swipe."
+msgstr ""
+
+#: template-parts/parts/tags.php:12
+msgid "Share: "
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:272
+msgid "Short Description"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:124 elementor/widgets/blog-grid.php:149
+#: elementor/widgets/blog-grid.php:161 elementor/widgets/blog-grid.php:174
+#: elementor/widgets/blog-grid.php:187 elementor/widgets/special-offer.php:175
+#: elementor/widgets/toggle.php:479 elementor/widgets/toggle.php:922
+msgid "Show"
+msgstr ""
+
+#: inc/class-customize.php:782 inc/class-customize.php:1030
+#: elementor/widgets/blog-grid.php:159
+msgid "Show Author"
+msgstr ""
+
+#: elementor/widgets/toggle.php:477
+msgid "Show Before Title"
+msgstr ""
+
+#: elementor/widgets/toggle.php:920
+msgid "Show Border Icon"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:201
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: elementor/widgets/special-offer.php:173
+msgid "Show button"
+msgstr ""
+
+#: inc/class-customize.php:761 inc/class-customize.php:1009
+msgid "Show Category"
+msgstr ""
+
+#: inc/class-customize.php:803 inc/class-customize.php:1051
+msgid "Show Comment"
+msgstr ""
+
+#: inc/class-customize.php:740 inc/class-customize.php:988
+#: elementor/widgets/blog-grid.php:147
+msgid "Show Date"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:3594
+msgid "Show Details"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:220
+#: elementor/widgets/testimonial-3.php:263
+#: elementor/widgets/testimonial-2.php:301
+msgid "Show Dots"
+msgstr ""
+
+#: inc/class-customize.php:825
+msgid "Show Excerpt"
+msgstr ""
+
+#: elementor/widgets/video.php:179
+msgid "Show Info"
+msgstr ""
+
+#: inc/class-customize.php:698 inc/class-customize.php:946
+msgid "Show Media"
+msgstr ""
+
+#: inc/class-customize.php:1113
+msgid "Show Next Prev Post"
+msgstr ""
+
+#: elementor/widgets/progress.php:117
+msgid "Show Notes"
+msgstr ""
+
+#: elementor/widgets/progress.php:107
+msgid "Show Percent"
+msgstr ""
+
+#: inc/class-customize.php:846 elementor/widgets/blog-grid.php:185
+msgid "Show Read More"
+msgstr ""
+
+#: inc/class-customize.php:1093
+msgid "Show Share Social Icon"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:122
+msgid "Show Short Description"
+msgstr ""
+
+#: inc/class-customize.php:1072
+msgid "Show Tag"
+msgstr ""
+
+#: inc/class-customize.php:719 inc/class-customize.php:967
+#: elementor/widgets/blog-grid.php:172 elementor/widgets/progress.php:62
+#: elementor/widgets/header-banner.php:135
+msgid "Show Title"
+msgstr ""
+
+#: inc/class-customize.php:1212 inc/class-customize.php:1263
+msgid "Show/Hide Title"
+msgstr ""
+
+#: inc/class-customize.php:547 inc/class-customize.php:1195
+msgid "Sidebar Width (px)"
+msgstr ""
+
+#: inc/class-customize.php:912
+msgid "Single"
+msgstr ""
+
+#: inc/class-customize.php:1241
+msgid "Single Layout"
+msgstr ""
+
+#: elementor/widgets/special-offer.php:208 elementor/widgets/counter.php:201
+#: elementor/widgets/testimonial.php:594
+#: elementor/widgets/testimonial-2.php:649
+msgid "Size"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:267
+#: elementor/widgets/testimonial-3.php:312
+msgid "Size quote"
+msgstr ""
+
+#: elementor/widgets/testimonial-3.php:187
+#: elementor/widgets/testimonial-2.php:225
+msgid "Slides to Scroll"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:211
+#: elementor/widgets/testimonial-3.php:254
+#: elementor/widgets/testimonial-2.php:292
+msgid "Smart Speed"
+msgstr ""
+
+#: elementor/widgets/progress.php:166
+msgid "Soft Cap"
+msgstr ""
+
+#: elementor/widgets/testimonial-2.php:106
+msgid "Solid"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: template-parts/search.php:29
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/page.php:34
+msgid "Sorry, no pages matched your criteria."
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: elementor/widgets/toggle.php:223
+msgid "Space Between"
+msgstr ""
+
+#: elementor/widgets/testimonial-2.php:666 elementor/widgets/toggle.php:775
+msgid "Spacing"
+msgstr ""
+
+#: elementor/widgets/progress.php:83 elementor/widgets/heading.php:103
+msgid "span"
+msgstr ""
+
+#: woocommerce/rental/loop/table_price.php:136
+#: woocommerce/rental/loop/table_price.php:173
+msgid "Special Discount"
+msgstr ""
+
+#: elementor/widgets/special-offer.php:20
+msgid "Special Offer"
+msgstr ""
+
+#: woocommerce/rental/loop/table_price.php:126
+msgid "Special Time"
+msgstr ""
+
+#: elementor/widgets/tabs.php:170 elementor/widgets/tabs.php:200
+#: elementor/widgets/tabs.php:774 elementor/widgets/toggle.php:715
+msgid "Start"
+msgstr ""
+
+#: woocommerce/rental/loop/table_price.php:130
+#: woocommerce/rental/loop/table_price.php:155
+msgid "Start Date"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: inc/class-customize.php:229
+msgid ""
+"Step 1: Insert font-face in style.css file: Refer https://www.w3schools."
+"com/cssref/css3_pr_font-face_rule.asp. Step 2: Insert font-family and font-"
+"weight like format: \n"
+"\t\t\t\t\t\t\t[\"Perpetua\", \"Regular:Bold:Italic:Light\"] | [\"Name-Font\","
+" \"Regular:Bold:Italic:Light\"]. Step 3: Refresh customize page to display "
+"new font in dropdown font field."
+msgstr ""
+
+#: elementor/widgets/logo.php:242
+msgid "Sticky Logo"
+msgstr ""
+
+#: elementor/widgets/logo.php:279
+msgid "Sticky Logo Height"
+msgstr ""
+
+#: elementor/widgets/logo.php:259
+msgid "Sticky Logo Width"
+msgstr ""
+
+#: elementor/widgets/menu-canvas.php:89
+msgid "Style"
+msgstr ""
+
+#: elementor/widgets/menu-footer.php:170 elementor/widgets/menu-nav.php:194
+msgid "Sub Menu"
+msgstr ""
+
+#: elementor/widgets/special-offer.php:110
+#: elementor/widgets/special-offer.php:146
+#: elementor/widgets/special-offer.php:371 elementor/widgets/heading.php:51
+#: elementor/widgets/heading.php:210
+msgid "Sub Title"
+msgstr ""
+
+#: elementor/widgets/special-offer.php:122
+msgid "Sub Title 1"
+msgstr ""
+
+#: elementor/widgets/special-offer.php:134
+msgid "Sub Title 2"
+msgstr ""
+
+#: elementor/widgets/counter.php:80 elementor/widgets/counter.php:322
+msgid "Suffix"
+msgstr ""
+
+#: elementor/widgets/tabs.php:127
+msgid "Tab #1"
+msgstr ""
+
+#: elementor/widgets/tabs.php:131
+msgid "Tab #2"
+msgstr ""
+
+#: elementor/widgets/tabs.php:112 elementor/widgets/tabs.php:113
+msgid "Tab Content"
+msgstr ""
+
+#: elementor/widgets/tabs.php:99 elementor/widgets/tabs.php:100
+msgid "Tab Title"
+msgstr ""
+
+#: elementor/widgets/tabs.php:40
+msgid "Tabs"
+msgstr ""
+
+#: elementor/widgets/tabs.php:122
+msgid "Tabs Items"
+msgstr ""
+
+#: template-parts/parts/breadcrumbs_title.php:25
+msgid "Tags"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:709
+#: elementor/widgets/testimonial-3.php:675
+#: elementor/widgets/testimonial-3.php:682
+#: elementor/widgets/testimonial-2.php:778
+#: elementor/widgets/testimonial-2.php:785
+msgid "testimonial"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:97 elementor/widgets/testimonial-3.php:110
+#: elementor/widgets/testimonial-2.php:148
+msgid "Testimonial "
+msgstr ""
+
+#: elementor/widgets/testimonial-2.php:20
+msgid "Testimonial 2"
+msgstr ""
+
+#: elementor/widgets/testimonial-3.php:20
+msgid "Testimonial 3"
+msgstr ""
+
+#: inc/class-customize.php:365 elementor/widgets/contact-info.php:81
+#: elementor/widgets/contact-info.php:174 elementor/widgets/progress.php:129
+#: elementor/widgets/video.php:74 elementor/widgets/video.php:392
+#: elementor/widgets/contact-form.php:133
+msgid "Text"
+msgstr ""
+
+#: elementor/widgets/special-offer.php:185
+msgid "Text Button"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:345
+msgid "Text Color"
+msgstr ""
+
+#: inc/class-customize.php:88
+msgid "Text Font"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:113
+msgid "Text Read More"
+msgstr ""
+
+#: elementor/widgets/special-offer.php:347
+#: elementor/widgets/special-offer.php:402
+#: elementor/widgets/special-offer.php:461
+msgid "Text Shadow"
+msgstr ""
+
+#. %s: version number
+#: install-resource/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: install-resource/class-tgm-plugin-activation.php:395
+#: install-resource/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: install-resource/class-tgm-plugin-activation.php:365
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: install-resource/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. 1: plugin name.
+#: install-resource/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:359
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-customize.php:465
+msgid "Third Background"
+msgstr ""
+
+#: inc/class-customize.php:612 inc/class-customize.php:641
+msgid "This isn't effect in Blog"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:347
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: install-resource/class-tgm-plugin-activation.php:341
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: elementor/widgets/contact-form.php:179
+#: elementor/widgets/contact-form.php:610
+msgid "Time"
+msgstr ""
+
+#: woocommerce/rental/loop/table_price.php:187
+msgid "Time Discount: "
+msgstr ""
+
+#: elementor/widgets/tabs.php:394 elementor/widgets/blog-grid.php:218
+#: elementor/widgets/progress.php:51 elementor/widgets/progress.php:297
+#: elementor/widgets/special-offer.php:86
+#: elementor/widgets/special-offer.php:316 elementor/widgets/heading.php:60
+#: elementor/widgets/heading.php:142 elementor/widgets/counter.php:89
+#: elementor/widgets/counter.php:376 elementor/widgets/toggle.php:275
+msgid "Title"
+msgstr ""
+
+#: elementor/widgets/tabs.php:97 elementor/widgets/toggle.php:42
+msgid "Title & Description"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:145
+msgid "Title Color"
+msgstr ""
+
+#: elementor/widgets/toggle.php:155
+msgid "Title HTML Tag"
+msgstr ""
+
+#: inc/class-elementor.php:386
+msgid "Title margin"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:157
+msgid "Title Padding"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:191
+msgid "Title Typo"
+msgstr ""
+
+#. 1: number of plugins.
+#: install-resource/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. 1: number of plugins.
+#: install-resource/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: elementor/widgets/toggle.php:33 elementor/widgets/toggle.php:185
+msgid "Toggle"
+msgstr ""
+
+#: elementor/widgets/toggle.php:73
+msgid "Toggle #1"
+msgstr ""
+
+#: elementor/widgets/toggle.php:77
+msgid "Toggle #2"
+msgstr ""
+
+#: elementor/widgets/toggle.php:57
+msgid "Toggle Content"
+msgstr ""
+
+#: elementor/widgets/toggle.php:68
+msgid "Toggle Items"
+msgstr ""
+
+#: elementor/widgets/toggle.php:44
+msgid "Toggle Title"
+msgstr ""
+
+#: elementor/widgets/progress.php:379 elementor/widgets/toggle.php:630
+msgid "Top"
+msgstr ""
+
+#: elementor/widgets/counter.php:91
+msgid "Total Users"
+msgstr ""
+
+#: woocommerce/rental/loop/fields/ajax-total.php:36
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/rental/loop/tabs.php:55 woocommerce/rental/loop/map.php:39
+msgid "Tour Map"
+msgstr ""
+
+#: woocommerce/rental/loop/tabs.php:50 woocommerce/rental/loop/plan.php:34
+msgid "Tour Plan"
+msgstr ""
+
+#: install-resource/active-plugins.php:45
+msgid "Travel and Tour Booking"
+msgstr ""
+
+#. Name of the theme
+#: inc/class-elementor.php:53
+msgid "Tripgo"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Tripgo is a modernized take on an ever-popular WordPress. It has custom "
+"color options with beautiful default color schemes, a harmonious fluid grid "
+"using a mobile-first approach, and impeccable polish in every detail. Tripgo "
+"will make your WordPress look beautiful everywhere. Created by <a "
+"href=\"https://themeforest.net/user/ovatheme\">Ovatheme</a>"
+msgstr ""
+
+#: inc/class-customize.php:676
+#: install-resource/class-tgm-plugin-activation.php:2634
+#: elementor/widgets/contact-info.php:74
+msgid "Type"
+msgstr ""
+
+#: elementor/widgets/special-offer.php:96
+msgid "Type Sale"
+msgstr ""
+
+#: inc/class-customize.php:59 elementor/widgets/special-offer.php:325
+#: elementor/widgets/special-offer.php:380
+#: elementor/widgets/special-offer.php:439
+#: elementor/widgets/special-offer.php:508 elementor/widgets/heading.php:150
+#: elementor/widgets/heading.php:219 elementor/widgets/heading.php:289
+msgid "Typography"
+msgstr ""
+
+#: elementor/widgets/testimonial-3.php:130
+#: elementor/widgets/testimonial-2.php:168
+msgid "UI/UX Designer"
+msgstr ""
+
+#: elementor/widgets/testimonial-2.php:697
+msgid "Unmarked Color"
+msgstr ""
+
+#: elementor/widgets/testimonial-2.php:102
+msgid "Unmarked Style"
+msgstr ""
+
+#: elementor/widgets/special-offer.php:124
+msgid "Up to"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: install-resource/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. 1: number of plugins.
+#: install-resource/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: install-resource/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: install-resource/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. %s: plugin name.
+#: install-resource/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: elementor/widgets/video.php:64
+msgid "URL Video"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:2638
+#: elementor/widgets/special-offer.php:50
+msgid "Version"
+msgstr ""
+
+#: elementor/widgets/special-offer.php:54
+msgid "Version 1"
+msgstr ""
+
+#: elementor/widgets/special-offer.php:55
+msgid "Version 2"
+msgstr ""
+
+#: elementor/widgets/special-offer.php:56
+msgid "Version 3"
+msgstr ""
+
+#: elementor/widgets/special-offer.php:57
+msgid "Version 4"
+msgstr ""
+
+#: elementor/widgets/special-offer.php:58
+msgid "Version 5"
+msgstr ""
+
+#: elementor/widgets/tabs.php:156
+msgid "Vertical"
+msgstr ""
+
+#: elementor/widgets/video.php:23
+msgid "Video"
+msgstr ""
+
+#: elementor/widgets/video.php:97
+msgid "Video Options"
+msgstr ""
+
+#: elementor/widgets/tabs.php:142 elementor/widgets/toggle.php:88
+msgid "View"
+msgstr ""
+
+#: elementor/widgets/special-offer.php:187
+msgid "View Deals"
+msgstr ""
+
+#: woocommerce/rental/loop/table_price.php:177
+msgid "View Discount"
+msgstr ""
+
+#: woocommerce/rental/content-item-product-list.php:156
+#: woocommerce/rental/loop/video-gallery.php:71
+msgid "View video"
+msgstr ""
+
+#: elementor/widgets/special-offer.php:148
+msgid "Want to save up to"
+msgstr ""
+
+#: inc/class-hook.php:397
+msgid "Website"
+msgstr ""
+
+#: inc/class-hook.php:343
+msgid "Wide"
+msgstr ""
+
+#: inc/class-customize.php:566
+msgid "Wide Site"
+msgstr ""
+
+#: install-resource/active-plugins.php:23
+msgid "Widget importer exporter"
+msgstr ""
+
+#: elementor/widgets/tabs.php:910 elementor/widgets/video.php:289
+#: elementor/widgets/toggle.php:570 elementor/widgets/toggle.php:932
+msgid "Width"
+msgstr ""
+
+#: install-resource/active-plugins.php:40
+msgid "Woocommerce"
+msgstr ""
+
+#: inc/class-widgets.php:33 inc/class-widgets.php:35
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: install-resource/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: elementor/widgets/blog-grid.php:134
+msgid "Words Total"
+msgstr ""
+
+#: inc/class-customize.php:497 inc/class-customize.php:703
+#: inc/class-customize.php:724 inc/class-customize.php:745
+#: inc/class-customize.php:766 inc/class-customize.php:787
+#: inc/class-customize.php:808 inc/class-customize.php:830
+#: inc/class-customize.php:851 inc/class-customize.php:951
+#: inc/class-customize.php:972 inc/class-customize.php:993
+#: inc/class-customize.php:1014 inc/class-customize.php:1035
+#: inc/class-customize.php:1056 inc/class-customize.php:1077
+#: inc/class-customize.php:1098 inc/class-customize.php:1118
+#: inc/class-customize.php:1217 inc/class-customize.php:1268
+#: elementor/widgets/testimonial.php:158 elementor/widgets/testimonial.php:173
+#: elementor/widgets/testimonial.php:187 elementor/widgets/testimonial.php:224
+#: elementor/widgets/testimonial-3.php:201
+#: elementor/widgets/testimonial-3.php:216
+#: elementor/widgets/testimonial-3.php:230
+#: elementor/widgets/testimonial-3.php:267
+#: elementor/widgets/testimonial-2.php:239
+#: elementor/widgets/testimonial-2.php:254
+#: elementor/widgets/testimonial-2.php:268
+#: elementor/widgets/testimonial-2.php:305 elementor/widgets/video.php:111
+#: elementor/widgets/video.php:125 elementor/widgets/video.php:139
+#: elementor/widgets/video.php:153 elementor/widgets/video.php:167
+#: elementor/widgets/video.php:181
+msgid "Yes"
+msgstr ""
+
+#: install-resource/active-plugins.php:74
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: elementor/widgets/header-banner.php:123
+msgid "You can add background image in Advanced Tab"
+msgstr ""
+
+#: woocommerce/rental/loop/unavailable_time.php:41
+msgid "You can't book product in this time"
+msgstr ""
+
+#: woocommerce/rental/loop/related.php:69
+msgid "You May Like"
+msgstr ""
+
+#: woocommerce/rental/loop/request-form.php:105
+msgid "Your address"
+msgstr ""
+
+#: template-parts/parts/comment.php:21
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: woocommerce/rental/loop/request-form.php:69
+msgid "Your name"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:176
+msgid "Your text"
+msgstr ""
